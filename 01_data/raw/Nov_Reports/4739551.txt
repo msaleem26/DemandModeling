@@ -1,0 +1,102 @@
+Part Number - 4739551
+Month	12/24	01/25	02/25	03/25	04/25	05/25	06/25	07/25	08/25	09/25	10/25	11/25	12 Mo. Avg.
+Part Number Inquiries
+End User
+Companies	9	9	12	13	14	12	12	16	14	19	17	10	13.08
+Total Inquiries	12	10	30	23	22	15	19	23	17	27	26	11	19.58
+Non End User
+Companies	45	54	57	84	86	32	64	105	96	129	118	103	81.08
+Total Inquiries	164	197	191	336	257	166	234	313	407	495	359	295	284.50
+Inventory Availability
+Total Sources	91	89	89	99	97	99	95	94	93	92	91	89	93.17
+Total Quantity	179	175	168	207	198	190	196	190	194	188	179	182	187.17
+Overhaul Inquiries
+End User
+Companies	1	3	7	3	5	0	2	3	3	4	5	1	3.08
+Total Inquiries	1	3	14	8	5	0	2	4	4	5	6	2	4.50
+Non End User
+Companies	4	6	3	6	10	5	5	10	6	9	8	8	6.67
+Total Inquiries	5	7	3	7	11	5	7	10	6	14	9	11	7.92
+Overhaul Capability
+Total Sources	36	36	36	36	36	37	36	36	37	37	39	39	36.75
+
+
+QuoteHistory
+Date          Description              Quantity  Condition Quote/Unit
+11/10/25      CONTROL MODULE           1         OH        4620/EA   
+11/05/25      473955-1 CARGO FIRE      1         AR        11000/    
+11/05/25      473955-1 CARGO FIRE      1         AR        11000/    
+11/03/25      CARGO BAY DETECTION/     13        OH        2500/     
+10/22/25      473955-1 CARGO FIRE      1         AR        10947.6/  
+10/22/25      473955-1 CARGO FIRE      1         AR        10947.6/  
+10/19/25      473955-1 CARGO FIRE      1         AR        10947.6/  
+10/19/25      473955-1 CARGO FIRE      1         AR        10947.6/  
+10/09/25      473955-1 CARGO FIRE      1         AR        10947.6/  
+10/08/25      473955-1 CARGO FIRE      1         AR        7298.4/ea 
+
+
+MROHistory
+Date          Description              ServiceCode    QuotePrice     CostPlus  TAT       
+11/21/25      SUPPRESSION PANEL        OH             2900           0         25        
+11/21/25      SUPPRESSION PANEL        BC             450            0         10        
+11/21/25      SUPPRESSION PANEL        RP             1950           0         25        
+11/20/25      CARGO BAY DETECT/SUP     OH             1315           0         15        
+11/20/25      CARGO BAY DETECT/SUP     BC             725            0         7         
+11/20/25      CARGO BAY DETECT/SUP     RP             830            0         15        
+11/20/25      CARGO BAY DETECTION      OH             3500           0         30        
+11/20/25      CARGO BAY DETECTION      BC             650            0         10        
+11/20/25      CARGO BAY DETECTION      RP             2500           0         20        
+11/19/25      CARGO BAY DETECTION/     OH             2200           0         24        
+
+
+Published Prices
+Last Updated  Vender/Mfg               Description              Model/Usage              Condition Price/Unit
+04/22/25      BOEING SHARED SERVIC     MODULE: CARGO SMOKE,                              SV        6500.00/EA
+02/14/25      WALTER KIDDE AEROSPA     MODULE:                                           NE        79898.72/EA
+02/14/25      BOEING SHARED SERVIC     MODULE: CARGO SMOKE,                              SV        6500.00/EA
+10/24/24      BOEING SHARED SERVIC     MODULE: CARGO SMOKE,                              SV        6500.00/EA
+10/24/24      WALTER KIDDE AEROSPA     MODULE:                                           NE        79898.72/EA
+10/23/24      WALTER KIDDE AEROSPA     MODULE:                                           NE        79898.72/EA
+10/23/24      BOEING SHARED SERVIC     MODULE: CARGO SMOKE,                              SV        6500.00/EA
+07/02/24      WALTER KIDDE AEROSPA     MODULE:                                           NE        76502.36/EA
+06/24/24      WALTER KIDDE AEROSPA     MODULE:                                           NE        76502.36/EA
+02/21/24      THE BOEING COMPANY       CARGO BAY DETECTION/                              NE        52452.00/EA
+11/21/23      WALTER KIDDE AEROSPA     MODULE:                                           NE        76502.36/EA
+01/30/23      THE BOEING COMPANY       CARGO BAY DETECTION/                              NE        39047.00/EA
+01/01/23      PROPONENT                DETECTOR                                          NE        57193.75/EA
+12/22/22      BOEING COMMERCIAL AI     MODULE:                                           IN        5500.00/EA
+12/21/22      BOEING COMMERCIAL AI     MODULE:                                           IN        5500.00/EA
+12/21/22      WALTER KIDDE AEROSPA     MODULE:                                           NE        56873.22/EA
+12/20/22      BOEING COMMERCIAL AI     MODULE:                                           IN        5500.00/EA
+12/20/22      WALTER KIDDE AEROSPA     MODULE:                                           NE        56873.22/EA
+09/23/21      WALTER KIDDE AEROSPA     MODULE:                                           NE        56873.22/EA
+09/23/21      BOEING COMMERCIAL AI     MODULE:                                           IN        5500.00/EA
+09/07/21      THE BOEING COMPANY       CARGO BAY DETECTION/                              NE        35777.00/EA
+02/24/21      KIDDE AEROSPACE          MODULE                                            NE        56873.22/EA
+10/21/20      WALTER KIDDE AEROSPA     MODULE:                                           NE        54164.98/EA
+04/17/20      THE BOEING COMPANY       CARGO BAY DETECTION/                              NE        35777.00/EA
+04/08/20      WALTER KIDDE AEROSPA     MODULE:                                           NE        54164.98/EA
+01/01/20      KIDDE AEROSPACE          CARGODET/FIREX PANEL                              NE        33853.11/EA
+11/08/19      WALTER KIDDE AEROSPA     MODULE:                                           NE        52414.34/EA
+02/04/19      THE BOEING COMPANY       CARGO BAY DETECTION/                              NE        34434.00/EA
+01/01/19      KIDDE AEROSPACE          CARGODET/FIREX PANEL                              NE        32758.96/EA
+07/14/18      THE BOEING COMPANY       CARGO BAY DETECTION/                              NE        34434.00/EA
+01/01/18      KIDDE AEROSPACE          CARGODET/FIREX PANEL                              NE        30890.11/EA
+01/01/17      KIDDE AEROSPACE          CARGO DET/FIREX  PAN                              NE        30505.74/EA
+03/21/16      KIDDE AEROSPACE/FENW     MODULE:                                           NE        48809.18/EA
+01/01/16      KIDDE AEROSPACE          CARGO DET/FIREX  PAN                              NE        30540.10/EA
+04/14/15      KIDDE AEROSPACE/FENW     MODULE:                                           NE        48765.30/EA
+01/01/15      KIDDE AEROSPACE          DETECTOR                                          NE        30512.64/EA
+
+
+Other Suggested Prices
+Last Updated  Vender/Mfg               Description                                  Technical Characteristics                    Price/Unit
+01/07/20                               FRESH CROSS CHECK                                                                         5950/EA   
+01/01/18      KIDDE AEROSPACE          MODULE                                       WEIGHT 0.5 pounds;ECCN 9A991.d;              36164.04/EA
+
+
+
+----------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+

@@ -1,0 +1,66 @@
+Part Number - RP23500
+Month	12/24	01/25	02/25	03/25	04/25	05/25	06/25	07/25	08/25	09/25	10/25	11/25	12 Mo. Avg.
+Part Number Inquiries
+End User
+Companies	7	10	15	15	15	17	10	20	25	18	10	1	13.58
+Total Inquiries	12	12	24	26	29	21	20	22	43	25	24	1	21.58
+Non End User
+Companies	34	54	85	93	106	64	53	61	129	63	92	22	71.33
+Total Inquiries	107	128	177	210	287	180	169	203	338	214	228	119	196.67
+Inventory Availability
+Total Sources	49	52	49	46	49	48	53	57	55	58	56	58	52.50
+Total Quantity	168	175	178	210	229	191	210	212	207	196	301	191	205.67
+Overhaul Inquiries
+End User
+Companies	1	2	1	2	2	5	4	3	2	2	2	1	2.25
+Total Inquiries	2	2	1	2	2	5	4	4	2	3	2	1	2.50
+Non End User
+Companies	3	5	9	3	3	3	0	6	8	5	8	1	4.50
+Total Inquiries	4	5	9	5	3	3	0	7	9	6	9	1	5.08
+Overhaul Capability
+Total Sources	32	32	31	30	30	30	30	30	30	30	31	34	30.83
+
+
+QuoteHistory
+Date          Description              Quantity  Condition Quote/Unit
+10/27/25      SENSOR                   1         NE        19000/EA  
+10/27/25      SENSOR, T12 TEMP         1         NE        42450/    
+10/27/25      SENSOR                   1         NE        19000/EA  
+10/24/25      SENSOR                   1         NE        18000/EA  
+10/24/25      SENSOR                   1         NE        18000/EA  
+10/24/25      SENSOR                   1         NE        19000/EA  
+10/24/25      SENSOR, T12 TEMP         1         NE        42450/    
+10/24/25      SENSOR, T12 TEMP         1         NE        42450/    
+10/21/25      SENSOR                   1         NE        18000/EA  
+10/21/25      SENSOR, T12 TEMP         1         NE        42500/    
+
+
+MROHistory
+Date          Description              ServiceCode    QuotePrice     CostPlus  TAT       
+11/24/25      TEMPERATURE SENSOR       BC             300            0         10        
+10/28/25      PROBE-T12                OH             1050           0         18        
+10/28/25      PROBE-T12                BC             350            0         7         
+10/28/25      PROBE-T12                RP             850            0         14        
+10/27/25      SENSOR, TEMPERATURE      OH             1400           0         20        
+10/27/25      SENSOR, TEMPERATURE      BC             350            0         5         
+10/27/25      SENSOR, TEMPERATURE      RP             700            0         10        
+10/27/25      T12 TEMPERATURE SENS     OH             1050           0         14        
+10/27/25      T12 TEMPERATURE SENS     BC             300            0         5         
+10/27/25      T12 TEMPERATURE SENS     RP             900            0         12        
+
+
+Published Prices
+Last Updated  Vender/Mfg               Description              Model/Usage              Condition Price/Unit
+07/02/24      AJW AVIATION / AJW G     PROBE                                             NE        15000.00/EA
+06/24/24      AJW AVIATION / AJW G     PROBE                                             NE        15000.00/EA
+02/21/24      THE BOEING COMPANY       PROBE                                             NE        46392.00/EA
+01/30/23      THE BOEING COMPANY       PROBE                                             NE        44324.00/EA
+01/01/23      PROPONENT                T12 TEMPERATURE SENS                              NE        32530.13/EA
+07/14/18      THE BOEING COMPANY       PROBE                                             NE        17874.00/EA
+
+
+
+----------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+

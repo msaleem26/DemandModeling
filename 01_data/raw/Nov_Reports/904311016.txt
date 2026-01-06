@@ -1,0 +1,70 @@
+Part Number - 904311016
+Month	12/24	01/25	02/25	03/25	04/25	05/25	06/25	07/25	08/25	09/25	10/25	11/25	12 Mo. Avg.
+Part Number Inquiries
+End User
+Companies	9	8	8	12	15	9	12	11	22	11	9	18	12.00
+Total Inquiries	16	10	9	18	18	9	13	15	31	18	12	27	16.33
+Non End User
+Companies	62	48	37	65	53	82	81	47	86	116	65	98	70.00
+Total Inquiries	133	138	104	141	136	191	188	125	204	268	165	213	167.17
+Inventory Availability
+Total Sources	103	103	107	101	106	100	98	98	96	100	103	97	101.00
+Total Quantity	1993	2010	2057	867	895	888	837	808	779	905	971	953	1163.58
+Overhaul Inquiries
+End User
+Companies	0	3	4	3	4	2	1	1	1	4	3	2	2.33
+Total Inquiries	0	3	4	3	4	3	1	1	1	4	4	2	2.50
+Non End User
+Companies	3	7	3	9	6	4	5	2	2	4	4	4	4.42
+Total Inquiries	3	11	40	17	6	11	5	2	2	4	11	6	9.83
+Overhaul Capability
+Total Sources	26	26	25	26	26	27	26	26	26	26	26	26	26.00
+
+
+QuoteHistory
+Date          Description              Quantity  Condition Quote/Unit
+11/24/25      IGNITION LEAD, TYPE      1         OH        3750/     
+11/24/25      IGNITION LEAD, TYPE      1         OH        3750/     
+11/20/25      IGNITION LEAD, TYPE      1         OH        3750/MON-DD-Y
+11/20/25      IGNITION LEAD, TYPE      1         OH        3750/MON-DD-Y
+11/20/25      IGN LEAD                 1         NE        3100/     
+11/20/25      IGN LEAD                 1         NE        3100/     
+11/19/25      LEAD - IGNITION          1         OH        3300/EA   
+11/12/25      IGN LEAD                 1         NE        3200/     
+11/11/25      IGNITION LEAD            2         NE        3610.1/EA 
+11/11/25      IGN LEAD                 1         NE        3200/     
+
+
+MROHistory
+Date          Description              ServiceCode    QuotePrice     CostPlus  TAT       
+11/07/25      IGNITION LEAD            OH             1850           0         24        
+06/20/25      IGNITION LEADS           RP             900            0         12        
+06/20/25      IGNITION LEADS           OH             1950           0         15        
+06/20/25      IGNITION LEADS           BC             410            0         5         
+06/18/25      IGNITION LEAD ASSEMB     OH             1800           0         16        
+06/18/25      IGNITION LEAD ASSEMB     BC             350            0         5         
+06/18/25      IGNITION LEAD ASSEMB     RP             1000           0         12        
+04/30/25      IGNITION LEADS           OH             1910           0         12        
+04/30/25      IGNITION LEADS           BC             350            0         7         
+04/30/25      IGNITION LEADS           RP             990            0         7         
+
+
+Published Prices
+Last Updated  Vender/Mfg               Description              Model/Usage              Condition Price/Unit
+07/07/20      TEXTRON AVIATION         IGNITION LEAD  TYPE                               NE        5989.98/EA
+12/27/19      TEXTRON AVIATION         IGNITION LEAD  TYPE      A (See  File/Help )      NE        5815.51/EA
+12/26/18      TEXTRON AVIATION         IGNITION LEAD  TYPE      A (See  File/Help )      NE        5646.13/EA
+03/24/18      TEXTRON AVIATION         IGNITION LEAD TYPE 4     A (See  File/Help )      NE        5576.42/EA
+03/24/18      TEXTRON AVIATION         IGNITION LEAD TYPE 4     Non-HBC Materials        NE        5576.42/EA
+06/21/16      TEXTRON AVIATION         IGNITION LEAD  TYPE      Non-HBC Materials        NE        5414.00/EA
+05/09/16      TEXTRON AVIATION         IGNITION LEAD  TYPE      A (See  File/Help )      NE        5414.00/EA
+12/30/15      TEXTRON AVIATION         IGNITION LEAD  TYPE      Non-HBC Materials        NE        5156.10/EA
+12/30/15      TEXTRON AVIATION         IGNITION LEAD  TYPE      A (See  File/Help )      NE        5156.10/EA
+01/01/11      UNISON                   IGNITION LEAD, TYPE      CFM56-5                  NE        5318.00/EA
+
+
+
+----------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+

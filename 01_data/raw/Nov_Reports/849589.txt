@@ -1,0 +1,95 @@
+Part Number - 849589
+Month	12/24	01/25	02/25	03/25	04/25	05/25	06/25	07/25	08/25	09/25	10/25	11/25	12 Mo. Avg.
+Part Number Inquiries
+End User
+Companies	9	20	21	15	11	18	31	25	15	21	28	13	18.92
+Total Inquiries	22	41	33	23	23	37	56	39	20	26	38	18	31.33
+Non End User
+Companies	81	105	136	107	76	130	149	193	108	159	142	80	122.17
+Total Inquiries	210	276	301	275	201	336	390	465	316	404	359	225	313.17
+Inventory Availability
+Total Sources	78	79	82	84	87	85	85	88	87	91	91	93	85.83
+Total Quantity	172	163	203	225	234	239	239	246	244	250	254	253	226.83
+Overhaul Inquiries
+End User
+Companies	0	4	5	5	1	0	3	1	2	4	2	0	2.25
+Total Inquiries	0	5	5	6	2	0	5	1	2	5	2	0	2.75
+Non End User
+Companies	4	14	13	7	7	5	11	15	6	3	8	6	8.25
+Total Inquiries	6	18	17	9	7	6	12	16	6	4	15	9	10.42
+Overhaul Capability
+Total Sources	67	63	63	65	64	64	63	63	61	61	60	63	63.08
+
+
+QuoteHistory
+Date          Description              Quantity  Condition Quote/Unit
+11/23/25      HYD PUMP                 2         OH        42000/Ea  
+10/23/25      PUMP                     1         OH        32500/EA  
+10/22/25      PUMP                     1         OH        32500/EA  
+10/22/25      PUMP                     1         OH        32500/EA  
+10/09/25      PUMP - HYDRAULIC         1         OH        50000/    
+10/09/25      PUMP                     1         OH        35000/EA  
+10/01/25      PUMP - HYDRAULIC         1         OH        52000/    
+09/23/25      PUMP - HYDRAULIC         1         OH        52000/    
+09/23/25      PUMP - HYDRAULIC         1         OH        52000/    
+09/23/25      HYDRAULIC PUMP           2         OH        59000/Ea  
+
+
+MROHistory
+Date          Description              ServiceCode    QuotePrice     CostPlus  TAT       
+11/13/25      VARIABLE DELIVERY HY     OH             7200           0         28        
+11/13/25      VARIABLE DELIVERY HY     BC             350            0         12        
+11/13/25      VARIABLE DELIVERY HY     RP             3850           0         24        
+11/12/25      VARIABLE DISPLACEMEN     OH             10500          0         30        
+11/12/25      VARIABLE DISPLACEMEN     BC             850            0         10        
+11/12/25      VARIABLE DISPLACEMEN     RP             5500           0         20        
+09/12/25      OB LEFT FLAP ACTUATO     RP             3900           0         18        
+09/12/25      OB LEFT FLAP ACTUATO     BC             500            0         7         
+09/12/25      OB LEFT FLAP ACTUATO     OH             7900           0         21        
+09/10/25      HYD PUMP                 RP             2800           0         16        
+
+
+Published Prices
+Last Updated  Vender/Mfg               Description              Model/Usage              Condition Price/Unit
+04/22/25      EATON AEROSPACE, LLC     PUMP: HYD,ENGINE DRI                              NE        76268.69/EA
+02/14/25      EATON AEROSPACE, LLC     PUMP: HYD,ENGINE DRI                              NE        67808.13/EA
+10/24/24      EATON AEROSPACE, LLC     PUMP: HYD,ENGINE DRI                              NE        67808.13/EA
+10/23/24      EATON AEROSPACE, LLC     PUMP: HYD,ENGINE DRI                              NE        67808.13/EA
+07/02/24      EATON AEROSPACE, LLC     PUMP: HYD,ENGINE DRI                              NE        67808.13/EA
+06/24/24      EATON AEROSPACE, LLC     PUMP: HYD,ENGINE DRI                              NE        63206.71/EA
+02/22/24      THE BOEING COMPANY       HYDR PUMP-ENG DRIVEN                              NE        63207.00/EA
+11/21/23      BOEING COMMERCIAL AI     PUMP: HYD,DISPLACEME                              SV        45000.00/EA
+05/16/23      EATON AEROSPACE, LLC     PUMP: HYD,ENGINE DRI                              NE        63206.68/EA
+05/16/23      BOEING SHARED SERVIC     HYDR PUMP-ENG DRIVEN                              NE        45000.00/EA
+02/16/23      EATON AEROSPACE, LLC     PUMP: HYD,ENGINE DRI                              NE        63206.68/EA
+12/23/22      EATON AEROSPACE, LLC     PUMP: HYD,ENGINE DRI                              NE        56100.76/EA
+12/22/22      EATON AEROSPACE, LLC     PUMP: HYD,ENGINE DRI                              NE        56100.76/EA
+12/21/22      VSE AVIATION SERVICE     PUMP: HYD ENGINE DRI                              NE        4500.00/EA
+12/21/22      EATON AEROSPACE, LLC     PUMP: HYD,ENGINE DRI                              NE        56100.76/EA
+12/20/22      VSE AVIATION SERVICE     PUMP: HYD ENGINE DRI                              NE        4500.00/EA
+12/20/22      EATON AEROSPACE, LLC     PUMP: HYD,ENGINE DRI                              NE        56100.76/EA
+09/23/21      1ST CHOICE AEROSPACE     PUMP: HYD ENGINE DRI                              NE        4500.00/EA
+09/23/21      EATON AEROSPACE, LLC     PUMP: HYD,ENGINE DRI                              NE        56100.76/EA
+09/07/21      THE BOEING COMPANY       HYDR PUMP-ENG DRIVEN                              NE        56101.00/EA
+10/21/20      EATON AEROSPACE, LLC     PUMP: HYD,ENGINE DRI                              NE        56100.76/EA
+04/08/20      EATON AEROSPACE, LLC     PUMP: HYD,ENGINE DRI                              NE        56100.76/EA
+11/08/19      EATON AEROSPACE, LLC     PUMP: HYD,ENGINE DRI                              NE        53300.00/EA
+02/04/19      THE BOEING COMPANY       HYDR PUMP-ENG DRIVEN                              NE        50165.96/EA
+07/14/18      THE BOEING COMPANY       HYDR PUMP-ENG DRIVEN                              NE        53750.00/EA
+03/21/16      AVIALL                   PUMP: HYD,ENGINE DRI                              NE        53300.00/EA
+04/14/15      MISC-COMMERCIAL A/C      PUMP: HYD,ENGINE DRI                              NE        51190.94/EA
+
+
+Other Suggested Prices
+Last Updated  Vender/Mfg               Description                                  Technical Characteristics                    Price/Unit
+02/18/25                               PUMP                                         HydraulicHydraulic,1                         60000/EA  
+
+
+Procurement History
+Your current subscription does not include access to this report. Please contact Customer Support for more information.
+
+
+----------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+

@@ -1,0 +1,129 @@
+Part Number - 9400351001
+Month	12/24	01/25	02/25	03/25	04/25	05/25	06/25	07/25	08/25	09/25	10/25	11/25	12 Mo. Avg.
+Part Number Inquiries
+End User
+Companies	23	20	16	8	15	16	14	18	14	24	13	14	16.25
+Total Inquiries	42	31	21	12	20	17	20	28	15	36	16	21	23.25
+Non End User
+Companies	175	100	92	95	102	118	70	111	123	104	56	128	106.17
+Total Inquiries	401	272	284	391	314	405	274	361	397	350	722	383	379.50
+Inventory Availability
+Total Sources	121	125	117	119	119	122	126	124	127	123	121	122	122.17
+Total Quantity	282	286	269	279	299	295	303	1154	300	297	291	310	363.75
+Overhaul Inquiries
+End User
+Companies	6	11	5	2	3	3	4	6	3	7	1	6	4.75
+Total Inquiries	8	15	7	2	4	3	8	6	3	7	2	6	5.92
+Non End User
+Companies	14	13	18	15	17	11	9	15	12	15	12	20	14.25
+Total Inquiries	20	19	28	20	26	16	14	21	22	17	17	26	20.50
+Overhaul Capability
+Total Sources	8	8	8	8	8	8	8	9	9	9	9	9	8.42
+
+
+QuoteHistory
+Date          Description              Quantity  Condition Quote/Unit
+11/26/25      TCAS PROCESSOR (HONE     1         SV        57750/EA  
+11/24/25      TCAS PROCESSOR (HONE     1         SV        57750/EA  
+11/19/25      TCAS PROCESSOR (HONE     1         SV        57750/EA  
+11/18/25      TCAS PROCESSOR (HONE     1         SV        57750/EA  
+11/18/25      TCAS PROCESSOR (HONE     1         SV        57750/EA  
+11/17/25      TCAS PROCESSOR (HONE     1         SV        57750/EA  
+11/17/25      TCAS PROCESSOR (HONE     1         SV        57750/EA  
+11/17/25      TCAS PROCESSOR (HONE     1         SV        57750/EA  
+11/17/25      TCAS PROCESSOR (HONE     1         SV        57750/EA  
+11/14/25      TCAS PROCESSOR           1         SV        49500/ea  
+
+
+MROHistory
+Date          Description              ServiceCode    QuotePrice     CostPlus  TAT       
+10/06/25      TCAS PROCESSOR           OH             3200           0         20        
+10/06/25      TCAS PROCESSOR           BC             350            0         5         
+10/06/25      TCAS PROCESSOR           RP             1500           0         10        
+10/06/25      TCAS COMPUTER            BC             3500           0         21        
+10/06/25      TCAS COMPUTER            RP             32500          0         45        
+08/06/25      TCAS COMPUTER            RP             32500          0         45        
+08/06/25      TCAS COMPUTER            BC             3500           0         21        
+06/23/25      TCAS COMPUTER            RP             32500          0         45        
+06/23/25      TCAS COMPUTER            BC             3500           0         21        
+05/29/25      TCAS COMPUTER            BC             3500           0         21        
+
+
+Published Prices
+Last Updated  Vender/Mfg               Description              Model/Usage              Condition Price/Unit
+11/01/25      HONEYWELL                TCAS PROCESSOR                                    EX        81814.67/EA
+11/01/25      HONEYWELL                TCAS PROCESSOR                                    RN        14467.41/EA
+10/23/25      HONEYWELL AEROSPACE      TPA-100 TCAS PROCESS     List Price Catalog       NE        363112.28/EA
+10/01/25      HONEYWELL                TCAS PROCESSOR                                    EX        77183.65/EA
+04/22/25      BOEING SHARED SERVIC     COMPUTER: TCAS,SVC                                SV        30000.00/EA
+02/14/25      BOEING SHARED SERVIC     COMPUTER: TCAS,SVC                                SV        30000.00/EA
+10/24/24      BOEING SHARED SERVIC     COMPUTER: TCAS,SVC                                SV        30000.00/EA
+10/23/24      HONEYWELL AEROSPACE      TPA-100 TCAS PROCESS     List Price Catalog       NE        466779.50/EA
+10/23/24      BOEING SHARED SERVIC     COMPUTER: TCAS,SVC                                SV        30000.00/EA
+09/26/24      HONEYWELL                TCAS PROCESSOR                                    EX        103976.32/EA
+09/26/24      HONEYWELL                TCAS PROCESSOR                                    RN        19489.47/EA
+07/02/24      BOEING SHARED SERVIC     COMPUTER: TCAS,SVC                                SV        50000.00/EA
+06/24/24      BOEING SHARED SERVIC     COMPUTER: TCAS,SVC                                SV        38500.00/EA
+02/21/24      THE BOEING COMPANY       TRAFFIC ALERT AND CO                              NE        747782.00/EA
+12/01/23      HONEYWELL                TCAS PROCESSOR                                    EX        99025.07/EA
+12/01/23      HONEYWELL                TCAS PROCESSOR                                    RN        18561.40/EA
+11/23/23      HONEYWELL AEROSPACE      TPA-100 TCAS PROCESS     List Price Catalog       NE        453139.99/EA
+11/21/23      BOEING SHARED SERVIC     COMPUTER: TCAS,SVC                                SV        38500.00/EA
+07/01/23      HONEYWELL                TCAS PROCESSOR                                    RN        17186.48/EA
+07/01/23      HONEYWELL                TCAS PROCESSOR                                    EX        91689.88/EA
+06/21/23      HONEYWELL AEROSPACE      TPA-100 TCAS PROCESS     List Price Catalog       NE        453139.90/EA
+05/24/23      HONEYWELL AEROSPACE      TPA-100 TCAS PROCESS     List Price Catalog       NE        453139.99/EA
+05/16/23      BOEING SHARED SERVIC     COMPUTER: TCAS,SVC                                NE        38500.00/EA
+05/01/23      HONEYWELL                TCAS PROCESSOR                                    EX        72492.00/EA
+05/01/23      HONEYWELL                TCAS PROCESSOR                                    RN        13588.00/EA
+01/30/23      THE BOEING COMPANY       TRAFFIC ALERT AND CO                              NE        681661.00/EA
+01/01/23      HONEYWELL                REPAIR FOR 940-0351                               RN        11513.02/EA
+01/01/23      HONEYWELL                REPAIR FOR 940-0351                               EX        61424.25/EA
+01/01/23      HONEYWELL AEROSPACE      TPA-100 TCAS PROCESS     List Price Catalog       NE        453139.99/EA
+10/27/22      HONEYWELL AEROSPACE      TPA-100 TCAS PROCESS     List Price Catalog       NE        429516.58/EA
+09/27/22      HONEYWELL                REPAIR FOR 940-0351                               EX        51716.97/EA
+09/27/22      HONEYWELL                REPAIR FOR 940-0351                               RN        9693.54/EA
+09/22/22      HONEYWELL AEROSPACE      TPA-100 TCAS PROCESS     List Price Catalog       NE        429516.58/EA
+07/21/22      HONEYWELL AEROSPACE      SPRING, TORSION          List Price Catalog       NE        2764.47/EA
+06/26/22      HONEYWELL                REPAIR FOR 940-0351                               EX        48789.59/EA
+06/26/22      HONEYWELL                REPAIR FOR 940-0351                               RN        9144.85/EA
+06/22/22      HONEYWELL AEROSPACE      TPA-100 TCAS PROCESS     List Price Catalog       NE        429516.58/EA
+05/27/22      HONEYWELL                REPAIR FOR 940-0351                               EX        48789.59/EA
+05/27/22      HONEYWELL                REPAIR FOR 940-0351                               RN        9144.85/EA
+04/07/22      HONEYWELL                REPAIR FOR 940-0351                               RN        7574.66/EA
+04/07/22      HONEYWELL                REPAIR FOR 940-0351                               EX        40412.30/EA
+12/22/21      HONEYWELL                REPAIR FOR 940-0351                               RN        6886.05/EA
+12/22/21      HONEYWELL AEROSPACE      TPA-100 TCAS PROCESS     List Price Catalog       NE        407201.92/EA
+12/22/21      HONEYWELL                REPAIR FOR 940-0351                               EX        36738.45/EA
+09/29/21      HONEYWELL                TPA-100 TCAS PROCESS                              RN        6287.30/EA
+09/29/21      HONEYWELL                TPA-100 TCAS PROCESS                              EX        26406.67/EA
+09/07/21      THE BOEING COMPANY       TRAFFIC ALERT AND CO                              NE        423490.00/EA
+08/26/21      HONEYWELL                FINAL ASSEMBLY, APM                               EX        2406.45/EA
+07/24/21      HONEYWELL                TPA-100 TCAS PROCESS                              EX        25149.21/EA
+10/30/20      HONEYWELL                TPA-100 TCAS PROCESS                              RN        5972.94/EA
+10/30/20      HONEYWELL                TPA-100 TCAS PROCESS                              EX        23891.75/EA
+11/08/19      BOEING SHARED SERVIC     RADIO: ALTIMETER,(RA                              NE        350000.00/EA
+10/24/19      HONEYWELL AEROSPACE      TPA-100 TCAS PROCESS     List Price Catalog       NE        389319.90/EA
+09/30/19      HONEYWELL                TPA-100 TCAS PROCESS                              EX        23175.00/EA
+09/30/19      HONEYWELL                TPA-100 TCAS PROCESS                              RN        5793.75/EA
+09/27/18      HONEYWELL AEROSPACE      TRAFFIC COMPUTER         List Price Catalog       NE        353927.18/EA
+07/14/18      THE BOEING COMPANY       TRAFFIC ALERT AND CO                              NE        260994.00/EA
+06/18/18      HONEYWELL                TPA-100 TCAS PROCESS                              EX        22500.00/EA
+06/18/18      HONEYWELL                TPA-100 TCAS PROCESS                              RN        8500.00/EA
+01/01/16      HONEYWELL AEROSPACE      TRAFFIC COMPUTER         Operator Price Catal     NE        203211.78/EA
+01/01/15      HONEYWELL                TPA-100B TCAS  PROCE                              RN        893.52/EA 
+01/01/15      HONEYWELL                TPA-100B TCAS  PROCE                              EX        57976.80/EA
+01/01/12      HONEYWELL AEROSPACE      TRAFFIC COMPUTER         List Price Catalog       NE        180465.00/EA
+
+
+Other Suggested Prices
+Last Updated  Vender/Mfg               Description                                  Technical Characteristics                    Price/Unit
+02/25/20                               Unknown                                      UnknownUnknown,Unknown                       49000/EA  
+05/28/19                               TPA-100 TCAS PROCESSOR                       AvionicsAvionics                             56000/EA  
+
+
+
+----------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+

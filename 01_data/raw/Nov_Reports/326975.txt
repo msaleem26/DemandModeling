@@ -1,0 +1,74 @@
+Part Number - 326975
+Month	12/24	01/25	02/25	03/25	04/25	05/25	06/25	07/25	08/25	09/25	10/25	11/25	12 Mo. Avg.
+Part Number Inquiries
+End User
+Companies	21	23	33	29	23	22	25	17	18	17	21	15	22.00
+Total Inquiries	28	51	56	41	35	31	39	24	24	23	25	18	32.92
+Non End User
+Companies	121	142	176	157	122	101	116	97	126	103	112	91	122.00
+Total Inquiries	254	335	403	477	349	329	332	320	372	293	375	323	346.83
+Inventory Availability
+Total Sources	47	49	46	53	51	57	57	56	56	63	66	63	55.33
+Total Quantity	74	87	85	100	118	114	121	121	112	134	127	120	109.42
+Overhaul Inquiries
+End User
+Companies	4	3	3	2	2	3	3	0	3	6	1	1	2.58
+Total Inquiries	5	3	3	2	2	3	3	0	3	6	1	1	2.67
+Non End User
+Companies	10	7	8	8	13	7	10	4	5	8	6	4	7.50
+Total Inquiries	10	10	10	12	17	9	14	4	8	9	6	4	9.42
+Overhaul Capability
+Total Sources	56	55	56	56	55	56	56	56	56	57	56	60	56.25
+
+
+QuoteHistory
+Date          Description              Quantity  Condition Quote/Unit
+08/26/25      VALVE                    1         SV        32000/    
+08/26/25      VALVE                    1         SV        32000/    
+08/26/25      VALVE                    1         SV        32000/    
+08/25/25      VALVE                    1         SV        32000/    
+08/25/25      VALVE                    1         SV        32000/    
+08/21/25      VALVE                    1         SV        32000/    
+08/20/25      VALVE                    1         SV        32000/    
+08/20/25      VALVE                    1         SV        32000/    
+08/18/25      VALVE                    1         SV        32000/    
+08/18/25      VALVE                    1         SV        32000/    
+
+
+MROHistory
+Date          Description              ServiceCode    QuotePrice     CostPlus  TAT       
+10/15/25      SHUTOFF VALVE            OH             4925           0         10        
+10/15/25      SHUTOFF VALVE            BC             475            0         3         
+10/15/25      SHUTOFF VALVE            RP             2595           0         8         
+10/14/25      ANTI ICE VALVE           OH             13900          0         20        
+10/14/25      ANTI ICE VALVE           BC             390            0         8         
+10/14/25      ANTI ICE VALVE           RP             3250           0         15        
+10/14/25      ANTI-ICE ON/OFF VALV     BC             611            0         10        
+08/07/25      ANTI-ICING  VALVE        OH             4900           0         21        
+08/07/25      ANTI-ICING  VALVE        BC             450            0         5         
+08/07/25      ANTI-ICING  VALVE        RP             1900           0         18        
+
+
+Published Prices
+Last Updated  Vender/Mfg               Description              Model/Usage              Condition Price/Unit
+01/01/23      PROPONENT                VALVE ASSY                                        NE        127632.37/EA
+12/21/22      BOEING COMMERCIAL AI     VALVE:                                            NE        13000.00/EA
+12/21/22      BOEING COMMERCIAL AI     VALVE:                                            NE        9000.00/EA
+12/20/22      BOEING COMMERCIAL AI     VALVE:                                            NE        9000.00/EA
+12/20/22      BOEING COMMERCIAL AI     VALVE:                                            NE        13000.00/EA
+09/23/21      BOEING COMMERCIAL AI     VALVE:                                            NE        9000.00/EA
+09/23/21      BOEING COMMERCIAL AI     VALVE:                                            NE        10000.00/EA
+09/23/21      BOEING COMMERCIAL AI     VALVE:                                            NE        13000.00/EA
+01/01/16      MEGGITT/WHITTAKER        VALVE, ANTI-ICE                                   NE        72661.53/EA
+01/10/15      UTC AEROSPACE            VALVE                                             NE        49537.00/EA
+01/01/15      MEGGITT/WHITTAKER        VALVE, ANTI-ICE                                   NE        70204.38/EA
+
+
+Procurement History
+Your current subscription does not include access to this report. Please contact Customer Support for more information.
+
+
+----------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+

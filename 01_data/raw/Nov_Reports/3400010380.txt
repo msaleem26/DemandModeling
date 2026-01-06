@@ -1,0 +1,55 @@
+Part Number - 3400010380
+Month	12/24	01/25	02/25	03/25	04/25	05/25	06/25	07/25	08/25	09/25	10/25	11/25	12 Mo. Avg.
+Part Number Inquiries
+End User
+Companies	23	23	15	14	24	17	21	21	16	16	18	15	18.58
+Total Inquiries	32	35	34	28	41	24	30	30	18	29	29	25	29.58
+Non End User
+Companies	77	96	79	89	117	115	161	66	105	133	105	99	103.50
+Total Inquiries	171	204	164	216	249	251	382	169	260	332	221	266	240.42
+Inventory Availability
+Total Sources	58	62	65	66	71	72	77	75	77	80	78	72	71.08
+Total Quantity	5291	3903	3971	4458	4027	3615	3170	3079	3353	3664	3602	3383	3793.00
+Overhaul Inquiries
+End User
+Companies	2	5	1	2	3	1	0	0	1	1	1	1	1.50
+Total Inquiries	3	7	1	2	3	1	0	0	1	1	1	1	1.75
+Non End User
+Companies	6	5	6	3	6	4	9	3	3	4	3	2	4.50
+Total Inquiries	7	5	10	3	8	5	11	3	3	5	3	2	5.42
+Overhaul Capability
+Total Sources	1	1	1	1	1	1	1	1	1	1	1	1	1.00
+
+
+QuoteHistory
+Date          Description              Quantity  Condition Quote/Unit
+11/12/25      FAN BLADE                24        AR        9900/     
+11/03/25      FAN BLADE                1         OH        80000/    
+10/29/25      FAN BLADE                1         OH        51500/    
+10/28/25      FAN BLADE                1         OH        52000/    
+10/24/25      FAN BLADE                28        OH        52000/    
+10/24/25      FAN BLADE                28        OH        52000/    
+10/24/25      FAN BLADE                28        OH        52000/    
+10/24/25      FAN BLADE                28        OH        52000/    
+10/24/25      FAN BLADE                28        OH        52000/    
+10/24/25      FAN BLADE                28        OH        52000/    
+
+
+MROHistory
+Date          Description              ServiceCode    QuotePrice     CostPlus  TAT       
+08/20/25      BLADE                    RP             9200           0         30        
+08/20/25      BLADE                    OH             850            0         30        
+03/12/25      BLADE                    RP             9200           0         35        
+03/12/25      BLADE                    OH             950            0         35        
+
+
+Other Suggested Prices
+Last Updated  Vender/Mfg               Description                                  Technical Characteristics                    Price/Unit
+12/23/19                               Unknown                                      UnknownUnknown,24,Unknown                    39500/EA  
+
+
+
+----------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+

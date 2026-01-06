@@ -1,0 +1,91 @@
+Part Number - 442653
+Month	12/24	01/25	02/25	03/25	04/25	05/25	06/25	07/25	08/25	09/25	10/25	11/25	12 Mo. Avg.
+Part Number Inquiries
+End User
+Companies	51	54	51	72	51	47	63	95	55	56	73	39	58.92
+Total Inquiries	102	87	81	117	88	69	116	158	103	88	133	61	100.25
+Non End User
+Companies	368	362	364	382	336	277	430	564	391	295	364	284	368.08
+Total Inquiries	900	869	809	1085	928	703	1097	1646	1115	859	1056	802	989.08
+Inventory Availability
+Total Sources	56	53	53	61	65	67	72	71	78	71	80	75	66.83
+Total Quantity	264	246	226	340	359	287	326	367	288	270	289	264	293.83
+Overhaul Inquiries
+End User
+Companies	8	7	9	11	10	7	6	11	8	10	7	2	8.00
+Total Inquiries	11	9	10	17	17	7	8	14	9	10	24	3	11.58
+Non End User
+Companies	29	31	27	15	12	19	16	39	19	19	26	11	21.92
+Total Inquiries	37	46	35	20	15	26	24	52	25	25	38	16	29.92
+Overhaul Capability
+Total Sources	14	14	15	15	15	15	16	16	16	16	16	17	15.42
+
+
+QuoteHistory
+Date          Description              Quantity  Condition Quote/Unit
+11/21/25      HMU                      1         OH        500000/   
+11/20/25      HMU                      1         OH        500000/   
+11/20/25      HMU                      1         OH        500000/   
+11/19/25      HMU                      1         OH        500000/   
+11/19/25      HMU                      1         OH        500000/   
+11/19/25      HMU                      1         OH        500000/   
+11/19/25      HMU                      1         OH        500000/   
+11/19/25      HMU                      1         OH        500000/   
+11/18/25      HMU                      1         OH        500000/   
+11/14/25      HMU                      1         OH        500000/   
+
+
+MROHistory
+Date          Description              ServiceCode    QuotePrice     CostPlus  TAT       
+11/13/25      HYDROMECHANICAL UNIT     OH             120000         0         30        
+11/13/25      HYDROMECHANICAL UNIT     BC             2500           0         21        
+11/13/25      HYDROMECHANICAL UNIT     RP             35000          0         30        
+09/22/25      HYDRO MECHANICAL UNI     RP             46500          0         50        
+09/22/25      HYDRO MECHANICAL UNI     OH             95000          0         75        
+09/22/25      HYDRO MECHANICAL UNI     BC             1500           0         15        
+07/28/25      HYDROMECH UNIT           RP             1450           0         18        
+07/28/25      HYDROMECH UNIT           OH             2795           0         24        
+07/28/25      HYDROMECH UNIT           BC             445            0         7         
+03/05/25      HMU                      OH             79560          0         35        
+
+
+Published Prices
+Last Updated  Vender/Mfg               Description              Model/Usage              Condition Price/Unit
+10/23/25      HONEYWELL AEROSPACE      FUEL CONTROL,MAIN,TU     List Price Catalog       NE        2835769.69/EA
+07/24/25      HONEYWELL AEROSPACE      FUEL CONTROL,MAIN,TU     List Price Catalog       NE        2080621.28/EA
+04/22/25      VSE AVIATION SERVICE     MECHANICAL UNIT: HYD                              OH        150000.00/EA
+04/22/25      BOEING COMMERCIAL AI     HYDROMECHANICAL UNIT                              NE        490000.00/EA
+02/14/25      VSE AVIATION SERVICE     MECHANICAL UNIT: HYD                              OH        150000.00/EA
+02/14/25      BOEING COMMERCIAL AI     HYDROMECHANICAL UNIT                              NE        490000.00/EA
+10/24/24      VSE AVIATION SERVICE     MECHANICAL UNIT: HYD                              OH        150000.00/EA
+07/02/24      VSE AVIATION SERVICE     MECHANICAL UNIT: HYD                              OH        150000.00/EA
+06/24/24      VSE AVIATION SERVICE     MECHANICAL UNIT: HYD                              OH        150000.00/EA
+11/21/23      VSE AVIATION SERVICE     MECHANICAL UNIT: HYD                              OH        150000.00/EA
+11/21/23      BOEING COMMERCIAL AI     HYDROMECHANICAL UNIT                              NE        300000.00/EA
+05/16/23      VSE AVIATION SERVICE     MECHANICAL UNIT: HYD                              NE        8000.00/EA
+02/16/23      VSE AVIATION SERVICE     MECHANICAL UNIT: HYD                              NE        8000.00/EA
+01/30/23      THE BOEING COMPANY       UNIT-HYDROMECHANICAL                              NE        492060.00/EA
+12/21/22      VSE AVIATION SERVICE     MECHANICAL UNIT: HYD                              NE        8000.00/EA
+12/20/22      VSE AVIATION SERVICE     MECHANICAL UNIT: HYD                              NE        8000.00/EA
+01/01/22      HONEYWELL AEROSPACE      FUEL CONTROL,MAIN,TU                              NE        635795.67/EA
+09/23/21      1ST CHOICE AEROSPACE     MECHANICAL UNIT: HYD                              NE        8000.00/EA
+09/07/21      THE BOEING COMPANY       UNIT-HYDROMECHANICAL                              NE        451431.00/EA
+04/17/20      THE BOEING COMPANY       UNIT-HYDROMECHANICAL                              NE        443666.00/EA
+02/04/19      THE BOEING COMPANY       UNIT-HYDROMECHANICAL                              NE        423749.00/EA
+07/14/18      THE BOEING COMPANY       UNIT-HYDROMECHANICAL                              NE        408000.00/EA
+01/01/18      HONEYWELL AEROSPACE      FUEL CONTROL,MAIN,TU     Distributor Price Ca     NE        536012.00/EA
+01/01/17      HONEYWELL AEROSPACE      FUEL CONTROL,MAIN,TU     Distributor Price Ca     NE        520400.00/EA
+01/01/16      HONEYWELL AEROSPACE      FUEL CONTROL,MAIN,TU     Distributor Price Ca     NE        519100.03/EA
+01/01/16      HONEYWELL AEROSPACE      FUEL CONTROL,MAIN,TU     Operator Price Catal     NE        324437.52/EA
+
+
+Other Suggested Prices
+Last Updated  Vender/Mfg               Description                                  Technical Characteristics                    Price/Unit
+09/01/24                               HMU (Hydromechanical Unit)                   MechanicalMechanical                         410000/EA 
+
+
+
+----------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+

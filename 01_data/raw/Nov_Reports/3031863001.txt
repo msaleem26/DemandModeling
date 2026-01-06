@@ -1,0 +1,75 @@
+Part Number - 3031863001
+Month	12/24	01/25	02/25	03/25	04/25	05/25	06/25	07/25	08/25	09/25	10/25	11/25	12 Mo. Avg.
+Part Number Inquiries
+End User
+Companies	19	19	28	22	19	25	20	16	14	17	27	23	20.75
+Total Inquiries	30	27	45	39	37	41	29	36	20	22	35	38	33.25
+Non End User
+Companies	98	107	75	136	99	114	90	63	81	97	143	83	98.83
+Total Inquiries	219	231	177	274	222	261	207	181	219	229	427	179	235.50
+Inventory Availability
+Total Sources	126	123	124	135	126	134	125	122	123	122	119	119	124.83
+Total Quantity	519	537	500	576	525	488	496	1416	441	457	448	418	568.42
+Overhaul Inquiries
+End User
+Companies	6	4	4	1	0	1	3	2	1	3	5	7	3.08
+Total Inquiries	9	4	5	1	0	1	3	3	1	6	5	9	3.92
+Non End User
+Companies	7	19	9	13	6	15	7	7	9	7	16	9	10.33
+Total Inquiries	14	36	26	36	23	35	20	23	21	24	56	19	27.75
+Overhaul Capability
+Total Sources	83	80	79	79	78	78	75	75	76	76	77	77	77.75
+
+
+QuoteHistory
+Date          Description              Quantity  Condition Quote/Unit
+08/26/25      VARIABLE DISPLACEMEN     1         OH        8600/     
+08/21/25      EDP.                     2         OH        25000/ea  
+08/04/25      VARIABLE DISPLACEMEN     1         OH        8600/     
+08/01/25      HYDRAULIC PUMP           1         OH        12000/    
+07/31/25      EDP.                     2         OH        25000/ea  
+07/31/25      EDP.                     2         OH        25000/ea  
+07/23/25      EDP.                     2         OH        25000/ea  
+07/22/25      EDP.                     1         OH        25000/ea  
+07/22/25      VARIABLE DISPLACEMEN     1         OH        8600/     
+07/16/25      VARIABLE DISPLACEMEN     1         OH        8600/     
+
+
+MROHistory
+Date          Description              ServiceCode    QuotePrice     CostPlus  TAT       
+10/27/25      PUMPHYDRAULIC            OH             5300           0         21        
+10/27/25      PUMPHYDRAULIC            BC             450            0         7         
+10/27/25      PUMPHYDRAULIC            RP             2600           0         15        
+10/23/25      VARIABLE DELIVERY HY     OH             3900           0         20        
+10/23/25      VARIABLE DELIVERY HY     BC             500            0         10        
+10/23/25      VARIABLE DELIVERY HY     RP             1600           0         15        
+10/22/25      PUMP ASSY VARIABLE D     OH             6090           0         19        
+10/22/25      PUMP ASSY VARIABLE D     BC             390            0         8         
+10/22/25      PUMP ASSY VARIABLE D     RP             2650           0         14        
+10/22/25      PUMP-HYDRAULIC           OH             6200           0         30        
+
+
+Published Prices
+Last Updated  Vender/Mfg               Description              Model/Usage              Condition Price/Unit
+02/21/24      THE BOEING COMPANY       HYDRAULIC PUMP                                    NE        55118.00/EA
+01/30/23      THE BOEING COMPANY       HYDRAULIC PUMP                                    NE        50244.00/EA
+12/22/22      EATON AEROQUIP LLC.      PUMP: HYD,EXCH                                    EX        15500.00/EA
+12/21/22      EATON AEROQUIP LLC.      PUMP: HYD,EXCH                                    EX        15500.00/EA
+12/20/22      EATON AEROQUIP LLC.      PUMP: HYD,EXCH                                    EX        15500.00/EA
+09/23/21      EATON AEROQUIP LLC.      PUMP: HYD,EXCH                                    EX        15500.00/EA
+09/07/21      THE BOEING COMPANY       HYDRAULIC PUMP                                    NE        50244.00/EA
+10/21/20      EATON AEROQUIP LLC.      PUMP: HYD,EXCH                                    EX        15500.00/EA
+02/04/19      THE BOEING COMPANY       HYDRAULIC PUMP, ENGI                              NE        46153.00/EA
+07/14/18      THE BOEING COMPANY       HYDRAULIC PUMP, ENGI                              NE        18089.37/EA
+
+
+Other Suggested Prices
+Last Updated  Vender/Mfg               Description                                  Technical Characteristics                    Price/Unit
+11/01/17      NOT SPECIFIED            HYDRAULIC PUMP                                                                            12750/EA  
+
+
+
+----------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+

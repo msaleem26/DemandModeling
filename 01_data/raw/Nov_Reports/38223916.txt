@@ -1,0 +1,76 @@
+Part Number - 38223916
+Month	12/24	01/25	02/25	03/25	04/25	05/25	06/25	07/25	08/25	09/25	10/25	11/25	12 Mo. Avg.
+Part Number Inquiries
+End User
+Companies	3	1	4	3	13	7	13	12	11	4	5	6	6.83
+Total Inquiries	3	1	6	3	23	12	15	18	14	5	6	11	9.75
+Non End User
+Companies	37	44	67	21	99	71	97	110	87	58	47	44	65.17
+Total Inquiries	113	110	168	93	225	183	219	256	238	166	135	131	169.75
+Inventory Availability
+Total Sources	43	43	48	46	49	51	57	55	55	57	59	62	52.08
+Total Quantity	89	91	99	99	168	109	122	117	128	127	135	149	119.42
+Overhaul Inquiries
+End User
+Companies	0	0	1	1	0	0	1	1	0	0	0	0	0.33
+Total Inquiries	0	0	1	1	0	0	1	1	0	0	0	0	0.33
+Non End User
+Companies	2	1	6	3	4	3	7	8	4	9	1	1	4.08
+Total Inquiries	2	1	8	3	8	6	11	11	4	13	1	1	5.75
+Overhaul Capability
+Total Sources	6	6	6	6	6	6	7	7	7	7	7	7	6.50
+
+
+QuoteHistory
+Date          Description              Quantity  Condition Quote/Unit
+11/11/25      NO DESC PROVIDED         2         NE        129000/   
+10/29/25      NO DESC PROVIDED         1         NE        129000/   
+10/29/25      NO DESC PROVIDED         6         NE        32900/    
+10/29/25      NO DESC PROVIDED         1         NE        32900/    
+10/29/25      NO DESC PROVIDED         1         NE        129000/   
+10/29/25      NO DESC PROVIDED         1         NE        129000/   
+10/21/25      NO DESC PROVIDED         1         NE        129000/   
+10/21/25      NO DESC PROVIDED         1         NE        129000/   
+10/20/25      NO DESC PROVIDED         1         NE        133000/   
+10/20/25      NO DESC PROVIDED         1         NE        129000/   
+
+
+MROHistory
+Date          Description              ServiceCode    QuotePrice     CostPlus  TAT       
+09/03/25      ROTOR, APU COMPRESSO     BC             685            0         15        
+06/25/25      ROTOR, APU COMPRESSO     BC             690            0         10        
+01/28/21      IMPELLER                 BC             750            0         5         
+01/28/21      IMPELLER                 RP             2500           0         20        
+02/06/19      IMPELLER                 BC             750            0         5         
+01/02/19      NO DESC PROVIDED         BC             485            0         7         
+01/02/19      NO DESC PROVIDED         RP             3590           0         15        
+01/02/19      NO DESC PROVIDED         OH             6650           0         25        
+12/31/18      IMPELLER                 BC             950            0         10        
+08/10/18      ENG COMP IMP             RP             7645           0         45        
+
+
+Published Prices
+Last Updated  Vender/Mfg               Description              Model/Usage              Condition Price/Unit
+10/23/25      HONEYWELL AEROSPACE      COMPRESSOR ROTOR, CE     List Price Catalog       NE        292439.44/EA
+10/23/24      HONEYWELL AEROSPACE      COMPRESSOR ROTOR, CE     List Price Catalog       NE        271884.92/EA
+02/21/24      THE BOEING COMPANY       CPRSR                                             NE        188711.00/EA
+11/23/23      HONEYWELL AEROSPACE      COMPRESSOR ROTOR, CE     List Price Catalog       NE        240349.04/EA
+06/21/23      HONEYWELL AEROSPACE      COMPRESSOR ROTOR, CE     List Price Catalog       NE        240349.00/EA
+05/24/23      HONEYWELL AEROSPACE      COMPRESSOR ROTOR, CE     List Price Catalog       NE        240349.04/EA
+01/30/23      THE BOEING COMPANY       CPRSR                                             NE        172025.00/EA
+01/01/23      HONEYWELL AEROSPACE      COMPRESSOR ROTOR, CE     List Price Catalog       NE        240349.04/EA
+10/27/22      HONEYWELL AEROSPACE      COMPRESSOR ROTOR, CE     List Price Catalog       NE        214925.35/EA
+09/22/22      HONEYWELL AEROSPACE      COMPRESSOR ROTOR, CE     List Price Catalog       NE        214925.35/EA
+07/21/22      HONEYWELL AEROSPACE      SLINGER OIL RLR BRG      List Price Catalog       NE        4617.55/EA
+06/22/22      HONEYWELL AEROSPACE      COMPRESSOR ROTOR, CE     List Price Catalog       NE        214925.35/EA
+01/01/22      HONEYWELL AEROSPACE      CMPRSR ROTOR                                      NE        133134.35/EA
+09/07/21      THE BOEING COMPANY       CPRSR                                             NE        153593.00/EA
+01/01/16      HONEYWELL AEROSPACE      COMPRESSOR ROTOR, CE     Operator Price Catal     NE        72015.20/EA
+07/25/11      HONEYWELL AEROSPACE      COMPRESSOR ROTOR, CE     List Price Catalog       NE        104452.00/EA
+
+
+
+----------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+

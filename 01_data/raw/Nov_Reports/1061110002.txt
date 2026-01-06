@@ -1,0 +1,61 @@
+Part Number - 1061110002
+Month	12/24	01/25	02/25	03/25	04/25	05/25	06/25	07/25	08/25	09/25	10/25	11/25	12 Mo. Avg.
+Part Number Inquiries
+End User
+Companies	19	16	19	17	14	29	22	28	13	24	24	17	20.17
+Total Inquiries	28	20	24	23	18	38	24	40	17	32	28	20	26.00
+Non End User
+Companies	75	113	77	89	116	113	106	164	86	114	92	102	103.92
+Total Inquiries	179	217	167	307	288	299	290	458	252	297	232	389	281.25
+Inventory Availability
+Total Sources	101	102	107	107	109	115	121	111	108	116	115	116	110.67
+Total Quantity	364	357	377	455	457	456	506	500	490	487	489	477	451.25
+Overhaul Inquiries
+End User
+Companies	5	4	2	2	2	8	5	3	1	5	5	1	3.58
+Total Inquiries	8	5	2	2	2	11	5	3	1	5	6	1	4.25
+Non End User
+Companies	12	10	9	16	8	17	9	18	8	7	8	11	11.08
+Total Inquiries	17	18	13	19	8	19	9	20	14	8	11	12	14.00
+Overhaul Capability
+Total Sources	59	55	55	55	55	55	56	57	55	56	54	56	55.67
+
+
+QuoteHistory
+Date          Description              Quantity  Condition Quote/Unit
+11/25/25      ACTUATOR APU             1         SV        11500/EA  
+11/25/25      ACTUATOR APU             1         SV        11500/EA  
+11/19/25      ACTUATOR APU             1         SV        18500/EA  
+11/19/25      ACTUATOR APU             1         SV        11500/EA  
+11/19/25      ACTUATOR APU             1         SV        11500/EA  
+11/19/25      ACTUATOR APU             1         SV        11500/EA  
+11/19/25      ACTUATOR APU             1         SV        11500/EA  
+11/17/25      ACTUATOR APU             1         SV        11500/EA  
+11/13/25      ACTUATOR APU             1         SV        11500/EA  
+11/13/25      ACTUATOR APU             1         SV        11500/EA  
+
+
+MROHistory
+Date          Description              ServiceCode    QuotePrice     CostPlus  TAT       
+10/13/25      APU DOOR ACTUATOR        BC             450            0         45        
+10/13/25      APU DOOR ACTUATOR        OH             2400           0         45        
+10/13/25      APU DOOR ACTUATOR        RP             1500           0         45        
+09/30/25      APU ACTUATOR             OH             16800          0         28        
+09/30/25      APU ACTUATOR             BC             450            0         12        
+09/30/25      APU ACTUATOR             RP             6000           0         25        
+09/29/25      ACTUATOR                 BC             550            0         5         
+09/29/25      ACTUATOR                 OH             9850           0         21        
+09/29/25      ACTUATOR                 RP             7000           0         18        
+09/25/25      ACTUATOR-APU             RP             800            0         10        
+
+
+Published Prices
+Last Updated  Vender/Mfg               Description              Model/Usage              Condition Price/Unit
+01/30/23      THE BOEING COMPANY       ACTUATOR                                          NE        23366.00/EA
+
+
+
+----------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+

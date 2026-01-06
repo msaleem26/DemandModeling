@@ -1,0 +1,167 @@
+Part Number - 071500018102
+Month	12/24	01/25	02/25	03/25	04/25	05/25	06/25	07/25	08/25	09/25	10/25	11/25	12 Mo. Avg.
+Part Number Inquiries
+End User
+Companies	10	15	13	16	14	18	14	17	13	11	15	14	14.17
+Total Inquiries	48	38	34	47	47	71	58	71	32	74	55	25	50.00
+Non End User
+Companies	74	53	61	87	79	113	121	98	60	155	124	47	89.33
+Total Inquiries	135	80	97	152	128	236	260	273	141	400	307	86	191.25
+Inventory Availability
+Total Sources	244	244	241	242	247	243	249	253	254	262	267	270	251.33
+Total Quantity	1017	1003	985	1008	1010	1016	1035	1059	1027	1280	1297	1100	1069.75
+Overhaul Inquiries
+End User
+Companies	3	3	3	2	0	0	0	1	3	2	2	2	1.75
+Total Inquiries	3	3	3	3	0	0	0	1	8	3	2	2	2.33
+Non End User
+Companies	7	8	10	5	4	12	8	13	8	13	13	6	8.92
+Total Inquiries	8	9	13	7	4	18	13	27	11	19	24	6	13.25
+Overhaul Capability
+Total Sources	7	7	8	8	8	8	8	9	8	8	8	9	8.00
+
+
+QuoteHistory
+Date          Description              Quantity  Condition Quote/Unit
+11/18/25      ANTENNA, ANT-81A, TC     1         SV        2000/Each 
+11/18/25      TCAS ANTENNA REPAIRE     1         SV        2000/     
+11/17/25      TCAS ANTENNA REPAIRE     1         SV        2000/     
+11/17/25      ANTENNA, ANT-81A, TC     1         SV        2000/Each 
+11/17/25      TCAS ANTENNA             1         AR        1500/     
+11/17/25      TCAS ANTENNA             1         AR        1750/     
+11/12/25      TCAS ANTENNA REPAIRE     1         SV        2000/     
+11/12/25      ANTENNA, ANT-81A, TC     1         SV        2000/Each 
+11/11/25      TCAS ANTENNA             2         SV        2000/     
+11/11/25      ANTENNA, ANT-81A, TC     1         SV        2000/EA   
+
+
+MROHistory
+Date          Description              ServiceCode    QuotePrice     CostPlus  TAT       
+11/17/25      TCAS ANTENNA             OH             1338           0         20        
+11/17/25      TCAS ANTENNA             BC             330            0         10        
+11/13/25      TCAS ANTENNA             OH             1138           0         20        
+11/13/25      TCAS ANTENNA             BC             330            0         10        
+10/07/25      TCAS ANTENNA             OH             1338           0         20        
+10/07/25      TCAS ANTENNA             BC             330            0         10        
+10/01/25      TCAS ANTENNA             OH             1338           0         26        
+10/01/25      TCAS ANTENNA             BC             330            0         10        
+09/22/25      TCAS ANTENNA             OH             1338           0         20        
+09/22/25      TCAS ANTENNA             BC             330            0         10        
+
+
+Published Prices
+Last Updated  Vender/Mfg               Description              Model/Usage              Condition Price/Unit
+11/11/25      BOMBARDIER AEROSPACE     DIRECTIONAL ANTENNA                               NE        64468.00/EA
+10/23/25      HONEYWELL AEROSPACE      ANTENNA, ANT-81A         List Price Catalog       NE        58399.27/EA
+08/07/25      BOMBARDIER AEROSPACE     DIRECTIONAL ANTENNA                               NE        62487.00/EA
+05/12/25      BOMBARDIER AEROSPACE     DIRECTIONAL ANTENNA                               NE        61755.00/EA
+04/22/25      BOEING COMMERCIAL AI     ANTENNA: DIRECTIONAL                              NE        5000.00/EA
+04/22/25      BOEING COMMERCIAL AI     ANTENNA: DIRECTIONAL                              NE        3500.00/EA
+04/22/25      BOEING COMMERCIAL AI     ANTENNA: DIRECTIONAL                              NE        9500.00/EA
+04/22/25      BOEING SHARED SERVIC     ANTENNA: DIRECTIONAL                              NE        6500.00/EA
+04/22/25      BOEING SHARED SERVIC     ANTENNA: DIRECTIONAL                              NE        3500.00/EA
+02/27/25      HONEYWELL AEROSPACE      ANTENNA, ANT-81A         List Price Catalog       NE        56698.32/EA
+02/14/25      BOEING COMMERCIAL AI     ANTENNA: DIRECTIONAL                              NE        9500.00/EA
+02/14/25      BOEING COMMERCIAL AI     ANTENNA: DIRECTIONAL                              NE        3500.00/EA
+02/14/25      BOEING SHARED SERVIC     ANTENNA: DIRECTIONAL                              NE        3500.00/EA
+02/14/25      BOEING SHARED SERVIC     ANTENNA: DIRECTIONAL                              NE        6500.00/EA
+02/14/25      BOEING COMMERCIAL AI     ANTENNA: DIRECTIONAL                              NE        5000.00/EA
+02/10/25      BOMBARDIER AEROSPACE     DIRECTIONAL ANTENNA                               NE        60544.00/EA
+10/24/24      BOEING SHARED SERVIC     ANTENNA: DIRECTIONAL                              NE        3500.00/EA
+10/24/24      BOEING COMMERCIAL AI     ANTENNA: DIRECTIONAL                              NE        5000.00/EA
+10/24/24      BOEING COMMERCIAL AI     ANTENNA: DIRECTIONAL                              NE        9500.00/EA
+10/24/24      BOEING SHARED SERVIC     ANTENNA: DIRECTIONAL                              NE        6500.00/EA
+10/24/24      BOEING COMMERCIAL AI     ANTENNA: DIRECTIONAL                              NE        3500.00/EA
+10/23/24      BOEING COMMERCIAL AI     ANTENNA: DIRECTIONAL                              NE        5000.00/EA
+10/23/24      BOEING COMMERCIAL AI     ANTENNA: DIRECTIONAL                              NE        9500.00/EA
+10/23/24      BOEING SHARED SERVIC     ANTENNA: DIRECTIONAL                              NE        3500.00/EA
+09/26/24      HONEYWELL AEROSPACE      ANTENNA, ANT-81A         List Price Catalog       NE        55586.59/EA
+09/01/24      BOMBARDIER AEROSPACE     DIRECTIONAL ANTENNA                               NE        59826.00/EA
+07/02/24      BOEING COMMERCIAL AI     ANTENNA: DIRECTIONAL                              NE        9500.00/EA
+07/02/24      BOEING COMMERCIAL AI     ANTENNA: DIRECTIONAL                              NE        5000.00/EA
+06/24/24      BOEING COMMERCIAL AI     ANTENNA: DIRECTIONAL                              NE        5000.00/EA
+06/24/24      BOEING COMMERCIAL AI     ANTENNA: DIRECTIONAL                              NE        9500.00/EA
+05/15/24      BOMBARDIER AEROSPACE     DIRECTIONAL ANTENNA                               NE        52139.00/EA
+02/21/24      THE BOEING COMPANY       TRAFFIC ALERT AND CO                              NE        44255.00/EA
+01/24/24      HONEYWELL AEROSPACE      ANTENNA, ANT-81A         List Price Catalog       NE        49655.28/EA
+11/23/23      HONEYWELL AEROSPACE      ANTENNA, ANT-81A         List Price Catalog       NE        46322.16/EA
+11/21/23      BOEING COMMERCIAL AI     ANTENNA: DIRECTIONAL                              NE        9500.00/EA
+11/21/23      BOEING COMMERCIAL AI     ANTENNA: DIRECTIONAL                              NE        5000.00/EA
+11/09/23      TEXTRON AVIATION         ANTENNA                                           NE        49101.49/EA
+11/08/23      BOMBARDIER AEROSPACE     DIRECTIONAL ANTENNA                               NE        48638.00/EA
+05/16/23      BOEING COMMERCIAL AI     ANTENNA: DIRECTIONAL                              NE        9500.00/EA
+02/16/23      BOEING COMMERCIAL AI     ANTENNA: DIRECTIONAL                              NE        37011.00/EA
+02/16/23      HONEYWELL AEROSPACE      ANTENNA: DIRECTIONAL                              NE        54797.04/EA
+01/30/23      THE BOEING COMPANY       TRAFFIC ALERT AND CO                              NE        40342.00/EA
+01/01/23      HONEYWELL AEROSPACE      ANTENNA, ANT-81A         List Price Catalog       NE        46322.16/EA
+12/24/22      TEXTRON AVIATION         ANTENNA                                           NE        39497.71/EA
+12/23/22      BOEING COMMERCIAL AI     ANTENNA: DIRECTIONAL                              NE        6500.00/EA
+12/23/22      HONEYWELL AEROSPACE      ANTENNA: DIRECTIONAL                              NE        54797.04/EA
+12/22/22      BOEING COMMERCIAL AI     ANTENNA: DIRECTIONAL                              IN        5535.00/EA
+12/22/22      BOEING COMMERCIAL AI     ANTENNA: DIRECTIONAL                              NE        10000.00/EA
+12/22/22      HONEYWELL AEROSPACE      ANTENNA: DIRECTIONAL                              NE        54797.04/EA
+12/21/22      BOEING COMMERCIAL AI     ANTENNA: DIRECTIONAL                              IN        5535.00/EA
+12/21/22      HONEYWELL AEROSPACE      ANTENNA: DIRECTIONAL                              NE        53283.81/EA
+12/21/22      BOEING COMMERCIAL AI     ANTENNA: DIRECTIONAL                              SV        15000.00/EA
+12/20/22      BOEING COMMERCIAL AI     ANTENNA: DIRECTIONAL                              NE        33045.00/EA
+12/20/22      HONEYWELL AEROSPACE      ANTENNA: DIRECTIONAL                              NE        53283.81/EA
+12/20/22      BOEING COMMERCIAL AI     ANTENNA: DIRECTIONAL                              IN        5535.00/EA
+12/20/22      BOEING COMMERCIAL AI     ANTENNA: DIRECTIONAL                              NE        2000.00/EA
+10/27/22      HONEYWELL AEROSPACE      ANTENNA, ANT-81A         List Price Catalog       NE        37261.99/EA
+10/11/22      BOMBARDIER AEROSPACE     DIRECTIONAL ANTENNA                               NE        39126.00/EA
+09/22/22      HONEYWELL AEROSPACE      ANTENNA, ANT-81A         List Price Catalog       NE        37261.99/EA
+07/21/22      HONEYWELL AEROSPACE      PLATEAENGAGEEW/HDWE      List Price Catalog       NE        830.75/EA 
+06/23/22      TEXTRON AVIATION         ANTENNA                                           NE        37261.99/EA
+06/22/22      HONEYWELL AEROSPACE      ANTENNA, ANT-81A         List Price Catalog       NE        37261.99/EA
+01/01/22      HONEYWELL AEROSPACE      ANTENNA, ANT-81A                                  NE        31968.25/EA
+12/22/21      HONEYWELL AEROSPACE      ANTENNA, ANT-81A         List Price Catalog       NE        36232.98/EA
+09/23/21      HONEYWELL AEROSPACE      ANTENNA: DIRECTIONAL                              NE        53283.81/EA
+09/23/21      BOEING COMMERCIAL AI     ANTENNA: DIRECTIONAL                              IN        5535.00/EA
+09/23/21      BOEING COMMERCIAL AI     ANTENNA: DIRECTIONAL                              NE        2000.00/EA
+09/07/21      THE BOEING COMPANY       TRAFFIC ALERT AND CO                              NE        33045.00/EA
+01/01/21      HONEYWELL AEROSPACE      ANTENNA, ANT-81A         List Price Catalog       NE        36232.99/EA
+10/21/20      HONEYWELL AEROSPACE      ANTENNA: DIRECTIONAL                              NE        36232.99/EA
+10/21/20      BOEING COMMERCIAL AI     ANTENNA: DIRECTIONAL                              IN        4895.00/EA
+05/28/20      HONEYWELL                ANTENNA, ANT-81A         ANT-81A                  EX        32195.00/EA
+04/08/20      BOEING COMMERCIAL AI     ANTENNA: DIRECTIONAL                              IN        1500.00/EA
+04/08/20      HONEYWELL AEROSPACE      ANTENNA: DIRECTIONAL                              NE        36232.99/EA
+10/24/19      HONEYWELL AEROSPACE      ANTENNA, ANT-81A         List Price Catalog       NE        33421.16/EA
+09/30/19      HONEYWELL                ANTENNA, ANT-81A         ANT-81A                  EX        30764.04/EA
+02/04/19      THE BOEING COMPANY       TRAFFIC ALERT AND CO                              NE        24302.00/EA
+09/27/18      HONEYWELL AEROSPACE      CAS                      List Price Catalog       NE        31829.68/EA
+07/14/18      THE BOEING COMPANY       TRAFFIC ALERT AND CO                              NE        23398.00/EA
+06/18/18      HONEYWELL                ANTENNA, ANT-81A         ANT-81A                  EX        29868.00/EA
+03/21/16      AVIALL                   ANTENNA: DIRECTIONAL                              NE        44553.93/EA
+01/01/16      HONEYWELL AEROSPACE      TCAS ANTENNA             Operator Price Catal     NE        8725.44/EA
+04/14/15      MISC-COMMERCIAL A/C      ANTENNA: DIRECTIONAL                              NE        33733.46/EA
+09/05/14      HONEYWELL AEROSPACE      CATALOG PART             Operator Price Catal     NE        18351.00/EA
+01/01/14      HONEYWELL                TCAS ANTENNA             ANT-81A                  EX        22021.00/EA
+07/25/11      HONEYWELL AEROSPACE      TCAS ANTENNA             List Price Catalog       NE        16646.00/EA
+03/01/11      BOMBARDIER AEROSPACE     DIRECTIONAL ANTENNA                               OX        28031.00/EA
+01/01/11      BOMBARDIER AEROSPACE     DIRECTIONAL ANTENNA                               NE        32895.00/EA
+02/01/07      TEXTRON AVIATION         ANTENNA                  3 A (See  File/Help      NE        10720.00/EA
+01/01/06      HONEYWELL AEROSPACE      CAS                      List Price Catalog       NE        16700.00/EA
+
+
+Other Suggested Prices
+Last Updated  Vender/Mfg               Description                                  Technical Characteristics                    Price/Unit
+10/09/25      YINGLING                 ANTENNA NO EXCHANGE PROGRAM.                                                             46155/EA  
+08/01/17      UNICORP SYSTEMS, INC     ANTENNA, TCAS                                TRACE: UNITED AIRLINES-121; TAGDATE: 2/2     2000/EA   
+03/20/17                               Not specified; SVC (FRESH Dual Release T                                                  2100/EA   
+10/29/14                               TCAS ANT                                     AvionicsAvionics                             3300/EA   
+12/22/09                               TCAS Antenna                                                                              30000/EA  
+10/29/09                               ant                                                                                       1500/EA   
+06/29/09                               EGPWS                                        AvionicsAvionics                             14000/EA  
+01/30/09                               TCAS Antenna                                                                              3500/EA   
+01/12/09                               Tcas Antenna                                 AvionicsAvionics                             4400/EA   
+12/31/08                               Unknown                                      UnknownUnknown,1,Unknown                     5500/EA   
+
+
+Procurement History
+Your current subscription does not include access to this report. Please contact Customer Support for more information.
+
+
+----------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+

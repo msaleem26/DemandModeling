@@ -1,0 +1,52 @@
+Part Number - 55L492
+Month	12/24	01/25	02/25	03/25	04/25	05/25	06/25	07/25	08/25	09/25	10/25	11/25	12 Mo. Avg.
+Part Number Inquiries
+End User
+Companies	3	1	1	0	0	0	0	1	1	1	1	1	0.83
+Total Inquiries	4	1	2	0	0	0	0	1	1	1	1	1	1.00
+Non End User
+Companies	12	16	12	9	13	6	10	9	15	7	15	14	11.50
+Total Inquiries	37	41	34	44	19	12	235	23	26	17	31	26	45.42
+Inventory Availability
+Total Sources	20	21	24	23	25	23	22	20	21	19	21	19	21.50
+Total Quantity	1788	1217	1354	1668	1737	1262	1106	1088	1030	942	1154	942	1274.00
+Overhaul Inquiries
+End User
+Companies	0	0	0	0	0	0	0	0	0	0	0	0	0.00
+Total Inquiries	0	0	0	0	0	0	0	0	0	0	0	0	0.00
+Non End User
+Companies	0	0	0	1	0	1	1	1	0	0	0	1	0.42
+Total Inquiries	0	0	0	1	0	1	1	1	0	0	0	1	0.42
+Overhaul Capability
+Total Sources	1	1	1	1	1	1	1	1	1	1	1	1	1.00
+
+
+QuoteHistory
+Date          Description              Quantity  Condition Quote/Unit
+04/22/25      HPT 2 VANE               10        OH        39500/    
+06/13/24      HPT 2 VANE               5         OH        44000/    
+05/10/22      VANE CLSTR AY W/RING     6         OH        25000/ea  
+05/10/22      VANE CLSTR AY W/RING     6         OH        25000/ea  
+01/04/19      RING SEGMENT&VANE CL     1         OH        24982/    
+
+
+Published Prices
+Last Updated  Vender/Mfg               Description              Model/Usage              Condition Price/Unit
+09/01/25      PRATT & WHITNEY          RINGVANY                 Commercial Engine Sp     NE        66440.00/EA
+10/01/24      PRATT & WHITNEY          RINGVANY                 Commercial Engine Sp     NE        60030.00/EA
+10/01/23      PRATT & WHITNEY          RINGVANY                 Commercial Engine Sp     NE        55280.00/EA
+10/01/22      PRATT & WHITNEY          RINGVANY                 Commercial Engine Sp     NE        50070.00/EA
+01/01/22      PRATT & WHITNEY          RINGVANY                 Commercial Engine Sp     NE        44840.00/EA
+01/01/21      PRATT & WHITNEY          RINGVANY                 Commercial Engine Sp     NE        41980.00/EA
+01/01/20      PRATT & WHITNEY          RINGVANY                 Commercial Engine Sp     NE        40060.00/EA
+01/01/19      PRATT & WHITNEY          RINGVANY                 Commercial Engine Sp     NE        37680.00/EA
+01/01/18      PRATT & WHITNEY          RINGVANY                 Commercial Engine Sp     NE        35689.74/EA
+01/01/17      PRATT & WHITNEY          RINGVANY                 Commercial Engine Sp     NE        33600.00/EA
+01/01/16      PRATT & WHITNEY          RINGVANY                 Commercial Engine Sp     NE        32150.00/EA
+
+
+
+----------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+

@@ -1,0 +1,95 @@
+Part Number - 3205482
+Month	12/24	01/25	02/25	03/25	04/25	05/25	06/25	07/25	08/25	09/25	10/25	11/25	12 Mo. Avg.
+Part Number Inquiries
+End User
+Companies	9	19	30	24	21	27	17	21	14	9	24	16	19.25
+Total Inquiries	14	25	45	42	32	36	22	31	20	11	31	24	27.75
+Non End User
+Companies	81	84	197	121	172	121	115	77	50	47	112	82	104.92
+Total Inquiries	174	189	398	280	395	301	315	252	153	154	283	201	257.92
+Inventory Availability
+Total Sources	84	82	79	76	78	76	75	74	79	88	86	89	80.50
+Total Quantity	143	173	177	180	192	187	220	214	207	233	235	252	201.08
+Overhaul Inquiries
+End User
+Companies	2	5	8	6	0	6	4	4	1	1	4	3	3.67
+Total Inquiries	2	9	8	8	0	6	4	6	1	1	5	5	4.58
+Non End User
+Companies	7	13	15	10	9	7	8	7	2	4	8	9	8.25
+Total Inquiries	9	25	18	19	11	7	11	7	3	5	13	10	11.50
+Overhaul Capability
+Total Sources	71	69	69	72	71	71	70	71	69	67	69	73	70.17
+
+
+QuoteHistory
+Date          Description              Quantity  Condition Quote/Unit
+11/25/25      VALVE                    1         OH        8500/     
+11/25/25      VALVE SOLENOID           1         OH        8500/     
+11/25/25      VALVE SOLENOID           1         OH        8000/     
+11/25/25      VALVE                    1         OH        8000/     
+11/24/25      SOLENOID VALVE           1         OH        6500/     
+11/23/25      SOLENOID VALVE           1         OH        6500/     
+11/23/25      SOLENOID VALVE           1         OH        6500/     
+11/21/25      SOLENOID VALVE           1         OH        6500/     
+11/21/25      SOLENOID VALVE           1         OH        6500/     
+11/21/25      SOLENOID VALVE           1         OH        6500/     
+
+
+MROHistory
+Date          Description              ServiceCode    QuotePrice     CostPlus  TAT       
+10/31/25      SOLENOID VALVE ASSEM     RP             1100           0         18        
+10/31/25      SOLENOID VALVE ASSEM     OH             2500           0         22        
+10/31/25      SOLENOID VALVE ASSEM     BC             450            0         10        
+10/29/25      VALVEASSY                OH             1800           0         20        
+10/29/25      VALVEASSY                BC             350            0         5         
+10/29/25      VALVEASSY                RP             900            0         10        
+10/29/25      SOLENOID VALVE ASSEM     OH             750            0         20        
+10/29/25      SOLENOID VALVE ASSEM     RP             600            0         15        
+10/29/25      SOLENOID VALVE ASSEM     BC             400            0         10        
+10/29/25      SOLENOID VALVE           RP             895            0         8         
+
+
+Published Prices
+Last Updated  Vender/Mfg               Description              Model/Usage              Condition Price/Unit
+10/23/25      HONEYWELL AEROSPACE      VALVE SOLENOID           List Price Catalog       NE        13672.58/EA
+10/23/24      HONEYWELL AEROSPACE      VALVE SOLENOID           List Price Catalog       NE        12711.58/EA
+02/21/24      THE BOEING COMPANY       VALVE, SOLENOID                                   NE        10560.00/EA
+11/23/23      HONEYWELL AEROSPACE      VALVE SOLENOID           List Price Catalog       NE        11928.99/EA
+02/16/23      HONEYWELL AEROSPACE      VALVE: SOLENOID                                   NE        16563.00/EA
+01/30/23      THE BOEING COMPANY       VALVE, SOLENOID                                   NE        9626.00/EA
+01/01/23      HONEYWELL AEROSPACE      VALVE SOLENOID           List Price Catalog       NE        11928.99/EA
+12/23/22      HONEYWELL AEROSPACE      VALVE: SOLENOID                                   NE        16563.00/EA
+12/22/22      HONEYWELL AEROSPACE      VALVE: SOLENOID                                   NE        16563.00/EA
+12/21/22      HONEYWELL AEROSPACE      VALVE: SOLENOID                                   NE        12735.85/EA
+12/21/22      BOEING COMMERCIAL AI     VALVE                                             OH        2500.00/EA
+12/20/22      HONEYWELL AEROSPACE      VALVE: SOLENOID                                   NE        12735.85/EA
+12/20/22      BOEING COMMERCIAL AI     VALVE                                             OH        2500.00/EA
+10/27/22      HONEYWELL AEROSPACE      VALVE SOLENOID           List Price Catalog       NE        11262.84/EA
+09/22/22      HONEYWELL AEROSPACE      VALVE SOLENOID           List Price Catalog       NE        11262.84/EA
+07/21/22      HONEYWELL AEROSPACE      VALVE ASSEMBLY, SOLE     List Price Catalog       NE        18432.58/EA
+06/22/22      HONEYWELL AEROSPACE      VALVE SOLENOID           List Price Catalog       NE        11262.84/EA
+09/23/21      HONEYWELL AEROSPACE      VALVE: SOLENOID                                   NE        12735.85/EA
+09/07/21      THE BOEING COMPANY       VALVE, SOLENOID                                   NE        6633.00/EA
+10/21/20      BOEING COMMERCIAL AI     VALVE                                             IN        3435.00/EA
+10/21/20      HONEYWELL AEROSPACE      VALVE: SOLENOID                                   NE        10825.47/EA
+04/08/20      BOEING COMMERCIAL AI     VALVE                                             IN        3450.00/EA
+04/08/20      HONEYWELL AEROSPACE      VALVE: SOLENOID                                   NE        10825.47/EA
+11/08/19      HONEYWELL AEROSPACE      VALVE: SOLENOID                                   NE        12486.13/EA
+02/04/19      THE BOEING COMPANY       VALVE, SOLENOID                                   NE        5287.90/EA
+07/14/18      THE BOEING COMPANY       VALVE, SOLENOID                                   NE        5287.90/EA
+03/21/16      AVIALL                   VALVE: SOLENOID                                   NE        6609.88/EA
+01/01/16      HONEYWELL AEROSPACE      VALVE SOLENOID           Operator Price Catal     NE        4731.28/EA
+04/14/15      MISC-COMMERCIAL A/C      VALVE: SOLENOID                                   NE        9474.26/EA
+07/25/11      HONEYWELL AEROSPACE      VALVE SOLENOID           List Price Catalog       NE        7163.00/EA
+
+
+Other Suggested Prices
+Last Updated  Vender/Mfg               Description                                  Technical Characteristics                    Price/Unit
+12/12/08                               Valve                                                                                     800/EA    
+
+
+
+----------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+

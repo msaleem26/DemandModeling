@@ -1,0 +1,98 @@
+Part Number - 9804700042
+Month	12/24	01/25	02/25	03/25	04/25	05/25	06/25	07/25	08/25	09/25	10/25	11/25	12 Mo. Avg.
+Part Number Inquiries
+End User
+Companies	22	21	15	21	21	31	23	24	20	29	31	13	22.58
+Total Inquiries	102	141	64	68	73	151	89	96	72	123	151	50	98.33
+Non End User
+Companies	127	187	93	71	94	126	92	104	76	107	134	87	108.17
+Total Inquiries	312	466	239	284	265	365	260	323	542	263	367	511	349.75
+Inventory Availability
+Total Sources	267	262	265	271	275	272	269	264	268	279	276	278	270.50
+Total Quantity	1438	1397	1448	1684	1696	1719	1585	1587	1592	1684	1658	1722	1600.83
+Overhaul Inquiries
+End User
+Companies	5	6	5	0	4	6	5	4	4	5	8	4	4.67
+Total Inquiries	5	7	6	0	4	8	6	4	4	6	23	5	6.50
+Non End User
+Companies	15	26	12	12	10	10	11	16	9	11	9	12	12.75
+Total Inquiries	40	61	26	22	35	33	28	28	10	11	18	19	27.58
+Overhaul Capability
+Total Sources	24	24	25	25	25	25	25	25	25	24	24	24	24.58
+
+
+QuoteHistory
+Date          Description              Quantity  Condition Quote/Unit
+11/25/25      FLIGHT DATA RECORDER     1         SV        4500/     
+11/24/25      SS FLIGHT DATA RECOR     1         SV        2760/EA   
+11/21/25      FLIGHT DATA RECORDER     1         SV        4500/     
+11/20/25      SS FLT DATA RECORDER     1         SV        4290/EA   
+11/14/25      CVR                      1         SV        4200/     
+11/14/25      SS FLT DATA RECORDER     1         SV        4290/EA   
+11/13/25      SS FLT DATA RECORDER     1         SV        4290/EA   
+11/13/25      SS FLIGHT DATA RECOR     1         SV        2560/EA   
+11/12/25      CVR                      1         SV        5000/     
+11/12/25      CVR                      1         SV        5000/     
+
+
+MROHistory
+Date          Description              ServiceCode    QuotePrice     CostPlus  TAT       
+11/18/25      FLIGHTDATARECORDER       OH             1800           0         20        
+11/18/25      FLIGHTDATARECORDER       BC             350            0         5         
+11/18/25      FLIGHTDATARECORDER       RP             900            0         10        
+11/18/25      SSFDR                    RP             2398           0         15        
+11/18/25      SSFDR                    BC             565            0         10        
+09/08/25      FLIGHTDATARECORDER       BC             350            0         5         
+09/08/25      FLIGHTDATARECORDER       RP             1200           0         10        
+09/08/25      FLIGHTDATARECORDER       OH             2500           0         20        
+09/08/25      SSFDR                    BC             565            0         10        
+09/08/25      SSFDR                    RP             2398           0         15        
+
+
+Published Prices
+Last Updated  Vender/Mfg               Description              Model/Usage              Condition Price/Unit
+08/26/25      HONEYWELL                SOLID STATE FLIGHT D     SSFDR                    RN        6486.07/EA
+08/26/25      HONEYWELL                SOLID STATE FLIGHT D     SSFDR                    EX        25944.25/EA
+09/26/24      HONEYWELL                SOLID STATE FLIGHT D     SSFDR                    RN        11398.77/EA
+09/26/24      HONEYWELL                SOLID STATE FLIGHT D     SSFDR                    EX        45595.04/EA
+12/01/23      HONEYWELL                SOLID STATE FLIGHT D     SSFDR                    RN        10855.97/EA
+12/01/23      HONEYWELL                SOLID STATE FLIGHT D     SSFDR                    EX        43423.85/EA
+12/22/22      BOEING COMMERCIAL AI     RECORDER: DATA,FLT                                IN        10190.69/EA
+12/21/22      BOEING COMMERCIAL AI     RECORDER: DATA,FLT                                IN        10190.69/EA
+12/21/22      VSE AVIATION SERVICE     RECORDER: DATA,FLT,S                              NE        750.00/EA 
+12/20/22      VSE AVIATION SERVICE     RECORDER: DATA,FLT,S                              NE        750.00/EA 
+12/20/22      BOEING COMMERCIAL AI     RECORDER: DATA,FLT                                IN        10190.69/EA
+09/23/21      1ST CHOICE AEROSPACE     RECORDER: DATA,FLT,S                              NE        750.00/EA 
+09/23/21      BOEING COMMERCIAL AI     RECORDER: DATA,FLT                                IN        10190.69/EA
+10/21/20      BOEING COMMERCIAL AI     RECORDER: DATA,FLT                                IN        13000.00/EA
+10/21/20      BOEING COMMERCIAL AI     RECORDER: DATA,FLT                                NE        11700.00/EA
+04/17/20      THE BOEING COMPANY       SOLID STATE DIGITAL                               NE        66482.00/EA
+04/08/20      BOEING COMMERCIAL AI     RECORDER: DATA,FLT                                IN        10190.69/EA
+11/08/19      BOEING COMMERCIAL AI     RECORDER: DATA,FLT                                IN        13000.00/EA
+10/24/19      HONEYWELL AEROSPACE      SOLID STATE FLIGHT D     List Price Catalog       NE        91865.13/EA
+09/30/19      HONEYWELL                SOLID STATE FLIGHT D     SSFDR                    EX        17073.07/EA
+09/30/19      HONEYWELL                SOLID STATE FLIGHT D     SSFDR                    RN        4268.27/EA
+02/04/19      THE BOEING COMPANY       SOLID STATE DIGITAL                               NE        65242.00/EA
+01/01/19      HONEYWELL                SOLID STATE FLIGHT D     SSFDR                    NE        91865.13/EA
+09/27/18      HONEYWELL                SS FLT DATA RECORDER     SSFDR                    NE        89033.85/EA
+09/27/18      HONEYWELL AEROSPACE      SS FLT DATA RECORDER     List Price Catalog       NE        89033.85/EA
+07/14/18      THE BOEING COMPANY       SOLID STATE DIGITAL                               NE        62817.00/EA
+06/18/18      HONEYWELL                SOLID STATE FLIGHT D     SSFDR                    RN        5045.57/EA
+06/18/18      HONEYWELL                SOLID STATE FLIGHT D     SSFDR                    EX        16575.80/EA
+01/01/16      HONEYWELL AEROSPACE      SS FLT DATA RECORDER     Operator Price Catal     NE        49267.80/EA
+01/01/15      HONEYWELL                FLIGHT DATA RECORDER     SSFDR                    RN        4705.80/EA
+01/01/15      HONEYWELL                FLIGHT DATA RECORDER     SSFDR                    EX        15462.70/EA
+01/01/14      HONEYWELL                SS FLT DATA RECORDER     SSFDR                    NE        47630.00/EA
+01/01/12      HONEYWELL AEROSPACE      SS FLT DATA RECORDER     List Price Catalog       NE        43729.00/EA
+
+
+Other Suggested Prices
+Last Updated  Vender/Mfg               Description                                  Technical Characteristics                    Price/Unit
+02/27/13                               Unknown                                      UnknownUnknown,Unknown                       13500/EA  
+
+
+
+----------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+

@@ -1,0 +1,85 @@
+Part Number - 38880585
+Month	12/24	01/25	02/25	03/25	04/25	05/25	06/25	07/25	08/25	09/25	10/25	11/25	12 Mo. Avg.
+Part Number Inquiries
+End User
+Companies	12	20	13	9	21	8	18	17	16	11	13	10	14.00
+Total Inquiries	21	29	18	10	26	13	24	27	23	22	28	13	21.17
+Non End User
+Companies	54	110	123	118	102	81	118	125	81	67	86	105	97.50
+Total Inquiries	178	215	253	234	220	218	286	276	202	165	204	253	225.33
+Inventory Availability
+Total Sources	82	86	88	86	87	82	83	85	90	95	94	94	87.67
+Total Quantity	367	298	320	455	488	436	443	455	481	482	496	499	435.00
+Overhaul Inquiries
+End User
+Companies	1	2	1	3	1	2	3	3	1	6	2	2	2.25
+Total Inquiries	3	2	2	4	2	2	3	4	1	14	2	2	3.42
+Non End User
+Companies	8	7	5	14	12	6	14	3	5	6	6	6	7.67
+Total Inquiries	14	8	8	21	13	7	17	5	6	8	6	6	9.92
+Overhaul Capability
+Total Sources	26	26	27	28	28	29	30	30	30	31	30	30	28.75
+
+
+QuoteHistory
+Date          Description              Quantity  Condition Quote/Unit
+11/25/25      IGNITION EXCITER         1         OH        23900/ea  
+11/25/25      IGNITION EXCITER         1         OH        23900/ea  
+11/25/25      IGNITION EXCITER         1         OH        23900/ea  
+11/25/25      IGNITION EXCITER         1         OH        23900/ea  
+11/25/25      IGNITION EXCITER         1         OH        23900/ea  
+11/24/25      IGNITION EXCITER         1         OH        23900/ea  
+11/24/25      IGNITION EXCITER         1         OH        23900/ea  
+11/24/25      IGNITION EXCITER         1         OH        23900/ea  
+11/24/25      IGNITION EXCITER         1         OH        23900/ea  
+11/24/25      IGNITION EXCITER         1         OH        23900/ea  
+
+
+MROHistory
+Date          Description              ServiceCode    QuotePrice     CostPlus  TAT       
+09/25/25      IGNITION EXCITER         RP             2000           0         14        
+09/25/25      IGNITION EXCITER         OH             7000           0         21        
+09/25/25      IGNITION EXCITER         BC             575            0         3         
+09/25/25      IGNITION EXCITER         OH             7000           0         21        
+09/25/25      IGNITION EXCITER         BC             575            0         3         
+09/25/25      IGNITION EXCITER         RP             2000           0         14        
+09/24/25      IGNITION EXCITER         OH             10990          0         16        
+09/24/25      IGNITION EXCITER         BC             390            0         8         
+09/24/25      IGNITION EXCITER         RP             760            0         14        
+09/22/25      IGNITION EXCITER         RP             760            0         12        
+
+
+Published Prices
+Last Updated  Vender/Mfg               Description              Model/Usage              Condition Price/Unit
+10/23/25      HONEYWELL AEROSPACE      EXCITER, IGNITION        List Price Catalog       NE        25426.06/EA
+10/23/24      HONEYWELL AEROSPACE      EXCITER, IGNITION        List Price Catalog       NE        25299.56/EA
+12/20/22      BOEING SHARED SERVIC     EXCITIER                                          NE        8000.00/EA
+01/01/22      HONEYWELL AEROSPACE      EXCITER IGN                                       NE        16605.54/EA
+12/22/21      HONEYWELL                EXCITER IGNITOR                                   EX        9439.47/EA
+09/29/21      HONEYWELL                EXCITER, IGNITION                                 EX        9513.25/EA
+09/23/21      BOEING SHARED SERVIC     EXCITIER                                          NE        8000.00/EA
+09/07/21      THE BOEING COMPANY       EXCITER                                           NE        22355.00/EA
+08/26/21      HONEYWELL                DADC BAE 146                                      EX        4611.58/EA
+07/24/21      HONEYWELL                EXCITER, IGNITION                                 EX        9060.24/EA
+11/30/20      HONEYWELL                EXCITER, IGNITION                                 EX        9822.15/EA
+04/17/20      THE BOEING COMPANY       EXCITER                                           NE        21970.00/EA
+09/30/19      HONEYWELL                EXCITER, IGNITION                                 EX        9490.00/EA
+02/04/19      THE BOEING COMPANY       EXCITER                                           NE        21145.00/EA
+01/01/19      HONEYWELL AEROSPACE      EXCITER, IGNITION                                 OH        7300.00/EA
+01/01/16      HONEYWELL AEROSPACE      EXCITER IGNITION         Operator Price Catal     NE        10154.92/EA
+07/25/11      HONEYWELL AEROSPACE      EXCITER IGNITION         List Price Catalog       NE        12708.00/EA
+
+
+Other Suggested Prices
+Last Updated  Vender/Mfg               Description                                  Technical Characteristics                    Price/Unit
+11/13/12                               Ignition                                                                                  6500/EA   
+
+
+Procurement History
+Your current subscription does not include access to this report. Please contact Customer Support for more information.
+
+
+----------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+

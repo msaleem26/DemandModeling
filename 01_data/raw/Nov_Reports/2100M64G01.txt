@@ -1,0 +1,42 @@
+Part Number - 2100M64G01
+Month	12/24	01/25	02/25	03/25	04/25	05/25	06/25	07/25	08/25	09/25	10/25	11/25	12 Mo. Avg.
+Part Number Inquiries
+End User
+Companies	3	5	2	4	2	3	4	3	3	5	7	5	3.83
+Total Inquiries	3	10	2	4	3	4	5	5	3	8	17	9	6.08
+Non End User
+Companies	26	22	12	33	47	32	51	34	25	85	77	35	39.92
+Total Inquiries	81	82	61	84	115	98	130	122	76	204	158	81	107.67
+Inventory Availability
+Total Sources	31	32	34	34	30	28	30	31	30	30	28	28	30.50
+Total Quantity	8347	8173	8222	11110	13018	6478	6821	5835	5838	5990	6006	6016	7654.50
+Overhaul Inquiries
+End User
+Companies	0	1	0	0	0	0	0	0	0	0	1	1	0.25
+Total Inquiries	0	2	0	0	0	0	0	0	0	0	1	1	0.33
+Non End User
+Companies	0	0	0	2	1	0	5	0	0	1	1	0	0.83
+Total Inquiries	0	0	0	2	1	0	7	0	0	1	1	0	1.00
+Overhaul Capability
+Total Sources	0	0	0	0	0	0	0	0	0	0	0	0	0.00
+
+
+QuoteHistory
+Date          Description              Quantity  Condition Quote/Unit
+07/02/24      HPT NOZZLE 1             22        OH        16000/    
+07/01/24      HPT NOZZLE 1             22        OH        16000/    
+06/27/24      HPT NOZZLE 1             21        OH        16000/    
+08/21/23      NOZZLE - HPT STG 1       1         OH        15500/    
+08/21/23      NOZZLE - HPT STG 1       1         OH        15500/    
+05/04/23      HPTS1 NGV                22        OH        14500/Ea  
+12/01/22      HPT NOZZLES              1         SV        13000/ea  
+10/27/22      HPT NOZZLES              22        OH        13400/EA  
+09/30/22      HPT NOZZLES              50        OH        14500/ea  
+09/22/22      HPT NOZZLES              44        OH        14000/ea  
+
+
+
+----------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+

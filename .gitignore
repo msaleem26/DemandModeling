@@ -1,4 +1,60 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+dist/
+build/
+*.egg
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*.ipynb_checkpoints/
+
+# Environment variables
+.env
+.venv
+env/
+venv/
+ENV/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Large data files (uncomment if you don't want to track large CSVs)
+# *.csv
+# *.xlsx
+
+# Model files (uncomment if models are too large)
+# *.pkl
+# *.h5
+# *.model
+
+# Temporary files
+*.tmp
+*.log
+*.bak
+
+# Project specific
 checked_df_1month_20250911_133523.xlsx
-Input
-Output
-Result
+Input/
+Output/
+Result/
+
+# MLflow
+mlruns/
+mlflow.db
+
+# Virtual Environment
+venv312/

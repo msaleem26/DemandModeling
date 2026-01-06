@@ -1,0 +1,106 @@
+Part Number - 5727571
+Month	12/24	01/25	02/25	03/25	04/25	05/25	06/25	07/25	08/25	09/25	10/25	11/25	12 Mo. Avg.
+Part Number Inquiries
+End User
+Companies	9	14	20	19	14	12	11	11	14	15	17	19	14.58
+Total Inquiries	10	16	26	21	17	15	12	13	21	20	21	25	18.08
+Non End User
+Companies	60	82	120	118	79	59	75	81	53	80	144	117	89.00
+Total Inquiries	171	194	224	235	177	167	202	220	152	220	344	277	215.25
+Inventory Availability
+Total Sources	133	131	130	132	132	135	132	140	139	143	140	137	135.33
+Total Quantity	1047	626	497	1824	1650	1333	1149	1123	1169	1065	970	956	1117.42
+Overhaul Inquiries
+End User
+Companies	0	1	5	6	5	1	2	6	4	1	2	3	3.00
+Total Inquiries	0	1	5	9	5	1	2	7	9	1	2	3	3.75
+Non End User
+Companies	2	5	7	12	5	1	4	8	5	0	3	8	5.00
+Total Inquiries	2	16	9	14	6	1	4	12	7	0	5	8	7.00
+Overhaul Capability
+Total Sources	58	58	57	58	57	58	58	58	56	55	56	58	57.25
+
+
+QuoteHistory
+Date          Description              Quantity  Condition Quote/Unit
+11/26/25      SWITCH-THERMAL OVERH     1         SV        3500/EA   
+11/26/25      SWITCH THERMAL           1         OH        2400/     
+11/26/25      SWITCH THERMAL           1         OH        2400/     
+11/26/25      SWITCH THERMAL           1         OH        2400/     
+11/26/25      SWITCH THERMAL           1         OH        2400/     
+11/26/25      SWITCH THERMAL           1         OH        2400/     
+11/20/25      SWITCH                   1         SV        2000/EA   
+11/19/25      SWITCH-THERMAL OVERH     1         SV        3500/ea   
+11/19/25      SWITCH THERMAL           1         OH        2400/     
+11/19/25      SWITCH THERMAL           1         OH        2400/     
+
+
+MROHistory
+Date          Description              ServiceCode    QuotePrice     CostPlus  TAT       
+08/20/25      TEMPERATURE SWITCH       BC             175            0         1         
+08/20/25      THERMAL SWITCH           RP             300            0         8         
+08/20/25      THERMAL SWITCH           BC             200            0         4         
+08/20/25      THERMAL SWITCH           BC             445            0         7         
+08/19/25      SWITCH                   RP             600            0         14        
+08/19/25      SWITCH                   BC             350            0         5         
+08/19/25      SWITCH                   OH             950            0         21        
+08/18/25      THERMAL SWITCH           BC             150            0         6         
+08/18/25      TURB- THERMAL SWITCH     BC             200            0         3         
+08/18/25      TURB- THERMAL SWITCH     RP             250            0         3         
+
+
+Published Prices
+Last Updated  Vender/Mfg               Description              Model/Usage              Condition Price/Unit
+10/23/25      HONEYWELL AEROSPACE      SWITCH                   List Price Catalog       NE        8971.24/EA
+04/22/25      HONEYWELL INTERNATIO     SWITCH: PRESSURE,THE                              NE        7585.96/EA
+02/14/25      HONEYWELL INTERNATIO     SWITCH: PRESSURE,THE                              NE        6589.06/EA
+10/24/24      HONEYWELL INTERNATIO     SWITCH: PRESSURE,THE                              NE        6589.06/EA
+10/23/24      HONEYWELL INTERNATIO     SWITCH: PRESSURE,THE                              NE        6589.06/EA
+10/23/24      HONEYWELL AEROSPACE      SWITCH                   List Price Catalog       NE        7792.27/EA
+07/02/24      HONEYWELL INTERNATIO     SWITCH: PRESSURE,THE                              NE        6589.06/EA
+06/24/24      HONEYWELL AEROSPACE      SWITCH: PRESSURE,THE                              NE        8104.06/EA
+02/22/24      THE BOEING COMPANY       SWITCH THERMAL                                    NE        6484.00/EA
+11/23/23      HONEYWELL AEROSPACE      SWITCH                   List Price Catalog       NE        6888.45/EA
+11/21/23      HONEYWELL AEROSPACE      SWITCH: PRESSURE,THE                              NE        8104.06/EA
+05/16/23      HONEYWELL AEROSPACE      SWITCH: PRESSURE,THE                              NE        8104.06/EA
+02/16/23      HONEYWELL AEROSPACE      SWITCH: PRESSURE,THE                              NE        7246.82/EA
+01/30/23      THE BOEING COMPANY       SWITCH THERMAL                                    NE        5798.00/EA
+01/01/23      HONEYWELL AEROSPACE      SWITCH                   List Price Catalog       NE        6888.45/EA
+12/23/22      HONEYWELL AEROSPACE      SWITCH: PRESSURE,THE                              NE        7246.82/EA
+12/22/22      HONEYWELL AEROSPACE      SWITCH: PRESSURE,THE                              NE        9058.53/EA
+12/22/22      BOEING COMMERCIAL AI     SWITCH                                            NE        500.00/EA 
+12/21/22      HONEYWELL AEROSPACE      SWITCH: PRESSURE,THE                              NE        6764.97/EA
+12/21/22      BOEING COMMERCIAL AI     SWITCH                                            NE        500.00/EA 
+12/20/22      BOEING COMMERCIAL AI     SWITCH                                            NE        500.00/EA 
+12/20/22      HONEYWELL AEROSPACE      SWITCH: PRESSURE,THE                              NE        6764.97/EA
+10/27/22      HONEYWELL AEROSPACE      SWITCH                   List Price Catalog       NE        6159.80/EA
+09/22/22      HONEYWELL AEROSPACE      SWITCH                   List Price Catalog       NE        6159.80/EA
+07/21/22      HONEYWELL AEROSPACE      SHIM                     List Price Catalog       NE        114.60/EA 
+06/22/22      HONEYWELL AEROSPACE      SWITCH                   List Price Catalog       NE        6159.80/EA
+01/01/22      HONEYWELL AEROSPACE      SWITCH                                            NE        4072.33/EA
+09/23/21      BOEING COMMERCIAL AI     SWITCH                                            NE        500.00/EA 
+09/23/21      HONEYWELL AEROSPACE      SWITCH: PRESSURE,THE                              NE        6764.97/EA
+09/07/21      THE BOEING COMPANY       SWITCH THERMAL                                    NE        5412.00/EA
+10/21/20      HONEYWELL AEROSPACE      SWITCH: PRESSURE,THE                              NE        5750.23/EA
+04/08/20      HONEYWELL AEROSPACE      SWITCH: PRESSURE,THE                              NE        5750.23/EA
+11/08/19      HONEYWELL AEROSPACE      SWITCH: PRESSURE,THE                              NE        3869.66/EA
+02/04/19      THE BOEING COMPANY       SWITCH THERMAL                                    NE        2982.40/EA
+07/14/18      THE BOEING COMPANY       SWITCH THERMAL                                    NE        5022.99/EA
+03/21/16      AVIALL                   SWITCH: PRESSURE,THE                              NE        3276.10/EA
+01/01/16      HONEYWELL AEROSPACE      SWITCH                   Operator Price Catal     NE        2469.56/EA
+04/14/15      MISC-COMMERCIAL A/C      SWITCH: PRESSURE,THE                              NE        4940.07/EA
+07/25/11      HONEYWELL AEROSPACE      SWITCH                   List Price Catalog       NE        3867.00/EA
+
+
+Other Suggested Prices
+Last Updated  Vender/Mfg               Description                                  Technical Characteristics                    Price/Unit
+04/29/20      UNSPECIFIED              SWITCH                                                                                    950/EA    
+03/17/20      UNSPECIFIED              SWITCH                                                                                    550/EA    
+01/29/20      UNSPECIFIED              SWTICH                                                                                    1250/EA   
+
+
+
+----------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+

@@ -1,0 +1,82 @@
+Part Number - 5145177
+Month	12/24	01/25	02/25	03/25	04/25	05/25	06/25	07/25	08/25	09/25	10/25	11/25	12 Mo. Avg.
+Part Number Inquiries
+End User
+Companies	1	1	4	9	5	6	10	7	8	7	9	5	6.00
+Total Inquiries	1	1	9	11	7	6	13	7	11	11	12	7	8.00
+Non End User
+Companies	19	22	45	42	25	47	40	48	42	35	28	48	36.75
+Total Inquiries	80	86	119	97	77	103	99	116	131	108	84	105	100.42
+Inventory Availability
+Total Sources	54	57	59	58	57	65	66	68	69	72	75	75	64.58
+Total Quantity	126	128	130	440	442	450	455	333	482	490	485	478	369.92
+Overhaul Inquiries
+End User
+Companies	1	2	2	0	0	4	1	1	2	0	3	1	1.42
+Total Inquiries	2	2	3	0	0	4	1	1	6	0	4	1	2.00
+Non End User
+Companies	4	3	4	4	3	2	2	3	7	8	1	1	3.50
+Total Inquiries	4	4	4	5	3	2	3	4	9	16	1	1	4.67
+Overhaul Capability
+Total Sources	49	49	49	49	49	49	49	48	48	47	48	49	48.58
+
+
+QuoteHistory
+Date          Description              Quantity  Condition Quote/Unit
+11/20/25      AUDIO CONTROL PANEL      1         OH        17000/EA  
+11/19/25      AUDIO CONTROL PANEL      1         OH        17000/EA  
+06/09/25      PANEL AUDIO CONTROL      1         SV        25500/    
+05/15/25      PANEL: CONTROL,AUDIO     1         SV        27500/EA  
+05/01/25      PANEL                    1         SV        18500/EACH
+03/29/25      PANEL AUDIO CONTROL      1         SV        21500/EA  
+03/12/25      PANEL AUDIO CONTROL      1         SV        25600/    
+02/07/25      PANEL AUDIO CONTROL      1         SV        25700/    
+11/26/24      PANEL AUDIO CONTROL      1         SV        25500/EA  
+11/19/24      PANEL AUDIO CONTROL      1         SV        25900/    
+
+
+MROHistory
+Date          Description              ServiceCode    QuotePrice     CostPlus  TAT       
+08/08/25      CONTROL PANEL,AUDIO      OH             1850           0         18        
+08/08/25      CONTROL PANEL,AUDIO      BC             400            0         10        
+08/08/25      CONTROL PANEL,AUDIO      RP             1100           0         15        
+01/24/25      AUDIO CONTROL PANEL      RP             1350           0         15        
+01/24/25      AUDIO CONTROL PANEL      BC             395            0         10        
+01/21/25      AUDIO CONTROL PANEL      RP             1350           0         15        
+01/21/25      AUDIO CONTROL PANEL      BC             375            0         10        
+01/21/25      AUDIO CONTROL PANEL      OH             3900           0         24        
+01/21/25      AUDIO CONTROL PANEL      RP             2400           0         21        
+01/21/25      AUDIO CONTROL PANEL      BC             435            0         14        
+
+
+Published Prices
+Last Updated  Vender/Mfg               Description              Model/Usage              Condition Price/Unit
+04/22/25      BOEING COMMERCIAL AI     PANEL: CONTROL,AUDIO                              SV        24500.00/EA
+02/14/25      BOEING COMMERCIAL AI     PANEL: CONTROL,AUDIO                              SV        32500.00/EA
+10/24/24      BOEING COMMERCIAL AI     PANEL: CONTROL,AUDIO                              SV        32500.00/EA
+10/23/24      BOEING COMMERCIAL AI     PANEL: CONTROL,AUDIO                              SV        32500.00/EA
+07/02/24      BOEING COMMERCIAL AI     PANEL: CONTROL,AUDIO                              SV        32500.00/EA
+02/16/23      AVTECH CORPORATION       PANEL: CONTROL,AUDIO                              NE        95709.66/EA
+12/23/22      AVTECH CORPORATION       PANEL: CONTROL,AUDIO                              NE        95709.66/EA
+12/22/22      AVTECH CORPORATION       PANEL: CONTROL,AUDIO                              NE        95709.66/EA
+12/22/22      BOEING COMMERCIAL AI     PANEL: CONTROL,AUDIO                              IN        25000.00/EA
+12/21/22      BOEING COMMERCIAL AI     PANEL: CONTROL,AUDIO                              IN        25000.00/EA
+12/21/22      AVTECH CORPORATION       PANEL: CONTROL,AUDIO                              NE        95709.66/EA
+12/20/22      AVTECH CORPORATION       PANEL: CONTROL,AUDIO                              NE        95709.66/EA
+12/20/22      BOEING COMMERCIAL AI     PANEL: CONTROL,AUDIO                              IN        25000.00/EA
+09/23/21      BOEING COMMERCIAL AI     PANEL: CONTROL,AUDIO                              IN        50000.00/EA
+09/23/21      AVTECH CORPORATION       PANEL: CONTROL,AUDIO                              NE        95709.66/EA
+09/07/21      THE BOEING COMPANY       AUDIO CONTROL PANEL                               NE        30010.00/EA
+10/21/20      BOEING COMMERCIAL AI     PANEL: CONTROL,AUDIO                              IN        50000.00/EA
+10/21/20      AVTECH CORPORATION       PANEL: CONTROL,AUDIO                              NE        95709.66/EA
+04/08/20      AVTECH CORPORATION       PANEL: CONTROL,AUDIO                              NE        95709.66/EA
+11/08/19      AVTECH CORPORATION       PANEL: CONTROL,AUDIO                              NE        95709.66/EA
+02/04/19      THE BOEING COMPANY       AUDIO CONTROL PANEL                               NE        93833.00/EA
+07/14/18      THE BOEING COMPANY       AUDIO CONTROL PANEL                               NE        93833.00/EA
+
+
+
+----------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+

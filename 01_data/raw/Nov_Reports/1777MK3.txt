@@ -1,0 +1,67 @@
+Part Number - 1777MK3
+Month	12/24	01/25	02/25	03/25	04/25	05/25	06/25	07/25	08/25	09/25	10/25	11/25	12 Mo. Avg.
+Part Number Inquiries
+End User
+Companies	8	7	9	17	13	9	23	11	11	14	7	10	11.58
+Total Inquiries	10	13	9	24	16	12	40	14	12	17	8	15	15.83
+Non End User
+Companies	81	46	94	71	63	66	140	109	97	113	83	81	87.00
+Total Inquiries	218	161	245	326	240	219	338	292	256	313	266	277	262.58
+Inventory Availability
+Total Sources	62	62	60	55	54	54	59	61	62	61	54	48	57.67
+Total Quantity	156	140	132	136	154	144	145	153	156	153	139	128	144.67
+Overhaul Inquiries
+End User
+Companies	2	0	0	0	0	0	1	3	3	2	3	1	1.25
+Total Inquiries	2	0	0	0	0	0	1	3	3	2	3	1	1.25
+Non End User
+Companies	4	1	4	3	9	6	10	3	3	6	8	4	5.08
+Total Inquiries	5	1	4	5	11	7	13	3	3	7	9	5	6.08
+Overhaul Capability
+Total Sources	24	23	24	24	24	24	25	26	25	25	26	26	24.67
+
+
+QuoteHistory
+Date          Description              Quantity  Condition Quote/Unit
+11/25/25      LPC BLEED MASTER ACT     1         OH        45000/    
+09/29/25      ACTUATOR LPC BLEED       1         OH        50000/    
+09/25/25      LPC BLEED MASTER ACT     1         OH        45000/    
+09/25/25      LPC BLEED MASTER ACT     1         OH        45000/    
+09/16/25      LPC BLEED MASTER ACT     1         OH        45000/    
+04/16/25      MASTER ACTUATOR          1         OH        41850/    
+04/13/25      MASTER ACTUATOR          1         OH        42000/EA  
+04/02/25      MASTER ACTUATOR          1         OH        41850/    
+03/28/25      MASTER ACTUATOR          1         OH        42000/    
+03/26/25      MASTER ACTUATOR          1         OH        42000/    
+
+
+MROHistory
+Date          Description              ServiceCode    QuotePrice     CostPlus  TAT       
+12/24/24      L.P.C. BLEED MASTER      OH             4225           0         21        
+12/24/24      L.P.C. BLEED MASTER      BC             350            0         7         
+12/24/24      L.P.C. BLEED MASTER      RP             2575           0         18        
+12/20/24      LPC BLEED ACTUATOR       OH             6295           0         21        
+12/20/24      LPC BLEED ACTUATOR       BC             450            0         7         
+12/20/24      LPC BLEED ACTUATOR       RP             3095           0         17        
+08/20/24      L.P.C. BLEED MASTER      OH             4225           0         25        
+08/20/24      L.P.C. BLEED MASTER      RP             2575           0         18        
+08/20/24      L.P.C. BLEED MASTER      BC             350            0         7         
+08/20/24      L.P.C. BLEED MASTER      OH             10550          0         30        
+
+
+Published Prices
+Last Updated  Vender/Mfg               Description              Model/Usage              Condition Price/Unit
+01/01/20      UTC AEROSPACE            ACTUATOR  MASTER  LP                              NE        95000.00/EA
+01/01/14      SAFRAN GROUP             ACTUATOR MASTER LPC                               NE        128576.05/EA
+
+
+Other Suggested Prices
+Last Updated  Vender/Mfg               Description                                  Technical Characteristics                    Price/Unit
+04/17/15                               Unknown                                      UnknownUnknown,Unknown                       45000/EA  
+
+
+
+----------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+

@@ -1,0 +1,91 @@
+Part Number - 89794077
+Month	12/24	01/25	02/25	03/25	04/25	05/25	06/25	07/25	08/25	09/25	10/25	11/25	12 Mo. Avg.
+Part Number Inquiries
+End User
+Companies	19	18	24	18	26	26	16	24	17	27	20	14	20.75
+Total Inquiries	33	25	32	25	40	39	27	32	35	39	26	16	30.75
+Non End User
+Companies	113	135	163	125	170	107	99	71	77	144	113	66	115.25
+Total Inquiries	239	271	350	271	334	211	207	160	171	277	227	133	237.58
+Inventory Availability
+Total Sources	100	102	101	102	105	104	112	110	116	125	129	136	111.83
+Total Quantity	321	319	293	332	321	346	431	508	373	443	471	494	387.67
+Overhaul Inquiries
+End User
+Companies	1	1	0	3	2	1	1	4	1	3	2	2	1.75
+Total Inquiries	2	1	0	3	2	2	1	4	2	3	7	2	2.42
+Non End User
+Companies	5	9	13	8	12	4	9	12	3	5	5	9	7.83
+Total Inquiries	7	11	13	8	13	6	12	15	3	7	7	9	9.25
+Overhaul Capability
+Total Sources	41	41	40	40	39	42	43	43	43	43	43	44	41.83
+
+
+QuoteHistory
+Date          Description              Quantity  Condition Quote/Unit
+11/26/25      OXYGEN CYLINDER          1         OH        5000/     
+11/25/25      RESERVOIR ASSY- SLID     1         OH        3550/     
+11/25/25      OXYGEN CYLINDER          1         OH        5000/     
+11/21/25      OXYGEN CYLINDER          1         OH        6750/     
+11/21/25      OXYGEN BOTTLE            1         OH        4950/EA   
+11/19/25      OXYGEN CYLINDER          1         OH        4500/EA   
+11/19/25      OXYGEN BOTTLE            1         OH        4950/EA   
+11/18/25      OXYGEN CYLINDER          1         OH        6750/     
+11/18/25      OXYGEN BOTTLE            1         OH        4950/EA   
+11/17/25      OXYGEN BOTTLE            1         OH        4950/EA   
+
+
+MROHistory
+Date          Description              ServiceCode    QuotePrice     CostPlus  TAT       
+11/04/25      CYLINDER AND VALVE A     OH             1450           0         7         
+11/04/25      CYLINDER AND VALVE A     BC             125            0         2         
+11/04/25      CYLINDER AND VALVE A     RP             495            0         7         
+11/04/25      CYLINDER AND VALVE A     OH             1450           0         7         
+11/04/25      CYLINDER AND VALVE A     BC             125            0         2         
+11/04/25      CYLINDER AND VALVE A     RP             495            0         7         
+11/04/25      OXYGEN CYLINDER          OH             750            0         5         
+11/04/25      OXYGEN CYLINDER          BC             180            0         2         
+11/04/25      OXYGEN CYLINDER          RP             380            0         3         
+11/03/25      OXYGEN CYLINDER ASSY     OH             1280.54        0         15        
+
+
+Published Prices
+Last Updated  Vender/Mfg               Description              Model/Usage              Condition Price/Unit
+04/22/25      SAFRAN AEROSYSTEMS S     CYLINDER & VALVE: AS                              NE        6041.43/EA
+04/07/25      ZODIAC/AVOX              CYLINDER & VALVE- AS     OXYGEN                   NE        6041.43/EA
+02/14/25      SAFRAN AEROSYSTEMS S     CYLINDER & VALVE: AS                              NE        5646.19/EA
+10/24/24      SAFRAN AEROSYSTEMS S     CYLINDER & VALVE: AS                              NE        5646.19/EA
+10/23/24      SAFRAN AEROSYSTEMS S     CYLINDER & VALVE: AS                              NE        5137.56/EA
+07/02/24      SAFRAN AEROSYSTEMS S     CYLINDER & VALVE: AS                              NE        5646.19/EA
+06/24/24      SAFRAN AEROSYSTEMS S     CYLINDER & VALVE: AS                              NE        5137.56/EA
+04/09/24      ZODIAC/AVOX              CYLINDER & VALVE- AS     OXYGEN                   NE        5646.19/EA
+11/21/23      SAFRAN AEROSYSTEMS S     CYLINDER & VALVE: AS                              NE        5137.56/EA
+05/16/23      SAFRAN AEROSYSTEMS S     CYLINDER & VALVE: AS                              NE        5137.56/EA
+02/16/23      SAFRAN AEROSYSTEMS S     CYLINDER & VALVE: AS                              NE        4801.64/EA
+01/30/23      THE BOEING COMPANY       CYLINDER AND VALVE A                              NE        4802.00/EA
+01/01/23      PROPONENT                CYLINDER AND VALVE A                              NE        4932.26/EA
+12/23/22      SAFRAN AEROSYSTEMS S     CYLINDER & VALVE: AS                              NE        4801.64/EA
+12/22/22      SAFRAN AEROSYSTEMS S     CYLINDER & VALVE: AS                              NE        4801.64/EA
+12/21/22      SAFRAN AEROSYSTEMS S     CYLINDER & VALVE: AS                              NE        3387.06/EA
+12/20/22      SAFRAN AEROSYSTEMS S     CYLINDER & VALVE: AS                              NE        3387.06/EA
+09/23/21      SAFRAN AEROSYSTEMS S     CYLINDER & VALVE: AS                              NE        3387.06/EA
+10/21/20      SAFRAN AEROSYSTEMS S     CYLINDER & VALVE: AS                              NE        3390.13/EA
+04/08/20      SAFRAN AEROSYSTEMS S     CYLINDER & VALVE: AS                              NE        3390.13/EA
+11/08/19      ZODIAC SERVICES AMER     CYLINDER & VALVE: AS                              NE        4368.71/EA
+02/13/19      ZODIAC/AVOX              CYLINDER & VALVE ASS     OXYGEN                   NE        4393.80/EA
+03/01/17      ZODIAC/AVOX              CYLINDER & VALVE ASS     OXYGEN                   NE        3709.69/EA
+03/21/16      SAFRAN AEROSYSTEMS       CYLINDER & VALVE: AS     OXYGEN                   NE        4277.23/EA
+03/21/16      ZODIAC SERVICES AMER     CYLINDER & VALVE: AS                              NE        4277.23/EA
+01/01/15      ZODIAC/AVOX              CYLINDER & VALVE ASS     OXYGEN                   NE        3421.78/EA
+
+
+Other Suggested Prices
+Last Updated  Vender/Mfg               Description                                  Technical Characteristics                    Price/Unit
+08/31/11                               OXYGEN CYLINDER FOR SALE! FRESH CERT         OxygenOxygen                                 3750/EA   
+
+
+
+----------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+

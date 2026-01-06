@@ -1,0 +1,80 @@
+Part Number - 21SN4152
+Month	12/24	01/25	02/25	03/25	04/25	05/25	06/25	07/25	08/25	09/25	10/25	11/25	12 Mo. Avg.
+Part Number Inquiries
+End User
+Companies	15	19	26	21	14	24	29	18	19	21	24	21	20.92
+Total Inquiries	23	27	42	33	21	35	37	24	22	25	41	25	29.58
+Non End User
+Companies	60	90	93	81	129	109	107	126	80	110	114	113	101.00
+Total Inquiries	151	192	206	171	283	273	270	286	183	265	264	243	232.25
+Inventory Availability
+Total Sources	121	116	109	112	113	114	116	116	113	125	123	126	117.00
+Total Quantity	324	353	385	432	413	399	378	478	371	389	369	400	390.92
+Overhaul Inquiries
+End User
+Companies	2	4	5	3	3	8	5	11	6	3	7	4	5.08
+Total Inquiries	3	7	6	4	4	17	6	13	6	4	13	5	7.33
+Non End User
+Companies	7	16	9	6	9	3	11	11	7	4	8	9	8.33
+Total Inquiries	9	44	15	8	12	3	14	16	8	21	12	13	14.58
+Overhaul Capability
+Total Sources	91	90	89	89	89	89	89	89	88	87	87	90	88.92
+
+
+QuoteHistory
+Date          Description              Quantity  Condition Quote/Unit
+11/26/25      SWITCH                   1         SV        2800/     
+11/25/25      SWITCH                   1         SV        2800/     
+11/25/25      SWITCH                   1         SV        2800/     
+11/25/25      PRESSURE SWITHC          1         SV        2650/     
+11/25/25      PRESSURE SWITHC          1         SV        2800/     
+11/25/25      PRESSURE SWITHC          1         SV        2650/     
+11/25/25      PRESSURE SWITHC          1         SV        2800/     
+11/24/25      SWITCH                   1         SV        2800/     
+11/24/25      SWITCH                   1         SV        2800/     
+11/24/25      PRESSURE SWITHC          1         SV        2650/     
+
+
+MROHistory
+Date          Description              ServiceCode    QuotePrice     CostPlus  TAT       
+10/23/25      PRESSSWITCH              RP             450            0         10        
+10/23/25      PRESSSWITCH              BC             150            0         5         
+10/23/25      PRESSURE SWITCH          OH             1750           0         22        
+10/23/25      PRESSURE SWITCH          BC             500            0         8         
+10/23/25      PRESSURE SWITCH          RP             950            0         18        
+10/23/25      PRESSURE SWITCH          OH             1750           0         22        
+10/23/25      PRESSURE SWITCH          BC             500            0         8         
+10/23/25      PRESSURE SWITCH          RP             950            0         18        
+10/23/25      PRESSURE SWITCH          OH             1850           0         14        
+10/23/25      PRESSURE SWITCH          BC             350            0         7         
+
+
+Published Prices
+Last Updated  Vender/Mfg               Description              Model/Usage              Condition Price/Unit
+02/22/24      THE BOEING COMPANY       PRESSURE SWITCH                                   NE        4659.00/EA
+02/21/24      THE BOEING COMPANY       PRESSURE SWITCH                                   NE        4659.00/EA
+05/16/23      EATON AEROSPACE LLC      SWITCH: PRESSURE,ASS                              NE        3519.39/EA
+02/16/23      EATON AEROSPACE LLC      SWITCH: PRESSURE,ASS                              NE        3519.39/EA
+01/01/23      PROPONENT                SWITCH                                            NE        4487.21/EA
+01/01/23      BOEING AIRCRAFT          SWITCH                                            NE        4247.00/EA
+12/23/22      EATON AEROSPACE LLC      SWITCH: PRESSURE,ASS                              NE        3519.39/EA
+12/22/22      EATON AEROSPACE LLC      SWITCH: PRESSURE,ASS                              NE        3519.39/EA
+12/21/22      EATON AEROSPACE LLC      SWITCH: PRESSURE,ASS                              NE        3519.39/EA
+12/20/22      SATAIR USA, INC.         SWITCH: TEMP                                      NE        10011.65/EA
+12/20/22      EATON AEROSPACE LLC      SWITCH: PRESSURE,ASS                              NE        3519.39/EA
+09/23/21      EATON AEROSPACE LLC      SWITCH: PRESSURE,ASS                              NE        3519.39/EA
+01/01/21      BOEING AIRCRAFT          SWITCH                                            NE        3873.00/EA
+02/04/19      THE BOEING COMPANY       PRESSURE SWITCH                                   NE        3520.00/EA
+07/14/18      THE BOEING COMPANY       PRESSURE SWITCH                                   NE        3520.00/EA
+
+
+Other Suggested Prices
+Last Updated  Vender/Mfg               Description                                  Technical Characteristics                    Price/Unit
+12/09/25      CFM56EXTRACTFILE         PRESSURE SWITCH                                                                           429/EA    
+
+
+
+----------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+

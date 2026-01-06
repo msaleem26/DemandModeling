@@ -1,0 +1,88 @@
+Part Number - 32755383
+Month	12/24	01/25	02/25	03/25	04/25	05/25	06/25	07/25	08/25	09/25	10/25	11/25	12 Mo. Avg.
+Part Number Inquiries
+End User
+Companies	24	28	17	14	26	13	16	24	20	26	26	18	21.00
+Total Inquiries	48	46	25	21	40	16	34	33	26	33	35	30	32.25
+Non End User
+Companies	94	69	80	49	133	70	95	79	96	118	103	59	87.08
+Total Inquiries	242	208	196	166	290	235	272	260	267	304	306	199	245.42
+Inventory Availability
+Total Sources	69	74	77	79	83	85	90	96	98	99	100	101	87.58
+Total Quantity	388	375	399	401	426	390	403	425	433	480	447	446	417.75
+Overhaul Inquiries
+End User
+Companies	3	5	5	6	7	7	1	2	3	4	5	3	4.25
+Total Inquiries	8	6	5	10	9	7	1	3	3	4	5	3	5.33
+Non End User
+Companies	9	4	6	7	10	7	6	3	4	9	5	5	6.25
+Total Inquiries	9	9	10	15	12	10	17	5	4	11	5	9	9.67
+Overhaul Capability
+Total Sources	68	66	64	67	68	68	68	67	67	68	65	65	66.75
+
+
+QuoteHistory
+Date          Description              Quantity  Condition Quote/Unit
+11/24/25      ACTUATOR, CF6-80C2       1         OH        25000/each
+11/17/25      ACTUATOR, CF6-80C2       1         OH        24000/each
+11/07/25      BALLSCREW ACTUATOR       3         OH        38500/EA  
+10/30/25      ACTUATOR, CF6-80C2       1         OH        25000/each
+10/30/25      BALLSCREW ACTUATOR       3         OH        38500/    
+10/30/25      ACTUATOR, CF6-80C2       1         OH        25000/each
+10/28/25      ACTUATOR, CF6-80C2       1         OH        25000/each
+10/27/25      ACTUATOR, CF6-80C2       1         OH        25000/each
+10/27/25      BALLSCREW ACTUATOR       3         OH        38500/EA  
+10/24/25      ACTUATOR, CF6-80C2       1         OH        24000/each
+
+
+MROHistory
+Date          Description              ServiceCode    QuotePrice     CostPlus  TAT       
+11/19/25      BALLSCREW GEARBOX AS     OH             8500           0         25        
+11/19/25      BALLSCREW GEARBOX AS     BC             500            0         8         
+11/19/25      BALLSCREW GEARBOX AS     RP             3500           0         18        
+11/19/25      BALLSCREW ASSEMBLY       OH             8500           0         35        
+11/19/25      BALLSCREW ASSEMBLY       BC             400            0         15        
+11/19/25      BALLSCREW ASSEMBLY       RP             4500           0         25        
+10/24/25      GEARBOX BALLSCREW        RP             2500           0         20        
+10/24/25      GEARBOX BALLSCREW        OH             8500           0         30        
+10/24/25      GEARBOX BALLSCREW        BC             500            0         10        
+10/23/25      BALLSCREW ACTUATOR       OH             12550          0         20        
+
+
+Published Prices
+Last Updated  Vender/Mfg               Description              Model/Usage              Condition Price/Unit
+04/22/25      ONTIC ENGINEERING &      ACTUATOR                                          NE        158588.80/EA
+02/14/25      ONTIC ENGINEERING &      ACTUATOR                                          NE        137903.30/EA
+11/20/24      HONEYWELL AEROSPACE      ACTUATOR                 List Price Catalog       NE        125366.64/EA
+10/24/24      ONTIC ENGINEERING &      ACTUATOR                                          NE        137903.30/EA
+10/23/24      ONTIC ENGINEERING &      ACTUATOR                                          NE        109364.09/EA
+07/02/24      ONTIC ENGINEERING &      ACTUATOR                                          NE        54682.05/EA
+02/21/24      THE BOEING COMPANY       ACTUATOR                                          NE        233530.00/EA
+01/30/23      THE BOEING COMPANY       ACTUATOR                                          NE        150200.00/EA
+12/21/22      HONEYWELL AEROSPACE      ACTUATOR:                                         NE        101110.68/EA
+12/20/22      HONEYWELL AEROSPACE      ACTUATOR:                                         NE        101110.68/EA
+01/01/22      HONEYWELL AEROSPACE      ACTUATOR                                          NE        79504.39/EA
+09/23/21      HONEYWELL AEROSPACE      ACTUATOR:                                         NE        101110.68/EA
+09/07/21      THE BOEING COMPANY       ACTUATOR                                          NE        73157.00/EA
+10/21/20      HONEYWELL AEROSPACE      ACTUATOR:                                         NE        101110.67/EA
+04/17/20      THE BOEING COMPANY       ACTUATOR                                          NE        61174.00/EA
+04/08/20      HONEYWELL AEROSPACE      ACTUATOR:                                         NE        101110.67/EA
+02/04/19      THE BOEING COMPANY       ACTUATOR                                          NE        61174.00/EA
+07/14/18      THE BOEING COMPANY       ACTUATOR                                          NE        58900.00/EA
+03/21/16      AVIALL                   ACTUATOR                                          NE        71876.84/EA
+01/01/16      HONEYWELL AEROSPACE      ACTUATOR                 Operator Price Catal     NE        43018.00/EA
+07/25/11      HONEYWELL AEROSPACE      ACTUATOR                 List Price Catalog       NE        70538.00/EA
+
+
+Other Suggested Prices
+Last Updated  Vender/Mfg               Description                                  Technical Characteristics                    Price/Unit
+02/18/25      OEM                      ACTUATOR                                                                                  30000/EA  
+08/01/17      JET TRANSPORT ACTUAT     ACTUATOR END                                 TRACE: US AIRWAYS-121; TAGDATE: 1/18/201     8700/EA   
+06/12/17      Akruge@wyattaerospac     Actuator                                                                                  9000/EA   
+
+
+
+----------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+

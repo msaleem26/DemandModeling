@@ -1,0 +1,70 @@
+Part Number - 38007081
+Month	12/24	01/25	02/25	03/25	04/25	05/25	06/25	07/25	08/25	09/25	10/25	11/25	12 Mo. Avg.
+Part Number Inquiries
+End User
+Companies	17	23	24	33	21	28	42	22	17	18	23	17	23.75
+Total Inquiries	23	54	25	47	29	49	60	26	23	21	45	17	34.92
+Non End User
+Companies	96	115	118	127	93	135	131	131	70	126	109	77	110.67
+Total Inquiries	256	314	301	335	284	356	379	385	278	385	374	305	329.33
+Inventory Availability
+Total Sources	45	43	46	49	52	55	57	58	55	57	62	61	53.33
+Total Quantity	92	86	95	106	111	118	126	125	119	124	131	133	113.83
+Overhaul Inquiries
+End User
+Companies	3	0	3	4	1	2	6	3	2	2	7	1	2.83
+Total Inquiries	4	0	3	6	1	2	10	5	3	2	12	1	4.08
+Non End User
+Companies	3	12	9	17	3	3	5	6	2	6	13	7	7.17
+Total Inquiries	3	20	9	22	6	3	5	6	2	9	14	8	8.92
+Overhaul Capability
+Total Sources	13	13	13	13	14	14	15	15	15	15	16	15	14.25
+
+
+QuoteHistory
+Date          Description              Quantity  Condition Quote/Unit
+09/20/25      APU                      1         SV        850000/   
+09/20/25      APU                      1         SV        850000/   
+09/17/25      APU                      1         SV        850000/   
+09/17/25      APU                      1         SV        850000/   
+09/17/25      APU                      1         SV        850000/   
+09/16/25      APU                      1         SV        850000/   
+09/16/25      APU                      1         SV        850000/   
+09/16/25      APU                      1         SV        850000/   
+09/16/25      APU                      1         SV        850000/   
+09/16/25      APU                      1         SV        850000/   
+
+
+MROHistory
+Date          Description              ServiceCode    QuotePrice     CostPlus  TAT       
+11/05/25      VALVE, SOLENOID          OH             1800           0         20        
+11/05/25      VALVE, SOLENOID          BC             350            0         5         
+11/05/25      VALVE, SOLENOID          RP             900            0         10        
+07/18/25      APU, GTCP131-9A          OH             395000         0         45        
+07/18/25      APU, GTCP131-9A          BC             16800          0         10        
+07/18/25      APU, GTCP131-9A          RP             235000         0         30        
+05/02/25      APU, GTCP131-9A          OH             395000         0         45        
+05/02/25      APU, GTCP131-9A          BC             16800          0         10        
+05/02/25      APU, GTCP131-9A          RP             235000         0         25        
+03/13/25      APU, GTCP131-9A          OH             395000         0         45        
+
+
+Published Prices
+Last Updated  Vender/Mfg               Description              Model/Usage              Condition Price/Unit
+10/23/25      HONEYWELL AEROSPACE      ENGINE OUTLINE, GAS      List Price Catalog       NE        981002.66/EA
+10/23/24      HONEYWELL AEROSPACE      ENGINE OUTLINE, GAS      List Price Catalog       NE        962050.25/EA
+01/01/14      HONEYWELL AEROSPACE      GAS TURBINE ENG          Operator Price Catal     NE        755805.00/EA
+01/01/09      HONEYWELL AEROSPACE      131-9A                   List Price Catalog       NE        678255.00/EA
+
+
+Other Suggested Prices
+Last Updated  Vender/Mfg               Description                                  Technical Characteristics                    Price/Unit
+05/09/22      Tim                      GTCP 131-9A APU, SVC fresh, includes gen     APUAPU,1,P3094                               285000/EA 
+10/16/13                               APU GTCP131-9A                                                                            550000/EA 
+
+
+
+----------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+

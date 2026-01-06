@@ -1,0 +1,88 @@
+Part Number - 1074926
+Month	12/24	01/25	02/25	03/25	04/25	05/25	06/25	07/25	08/25	09/25	10/25	11/25	12 Mo. Avg.
+Part Number Inquiries
+End User
+Companies	31	25	28	42	35	39	32	46	35	25	30	33	33.42
+Total Inquiries	50	55	46	64	58	67	51	67	48	36	46	48	53.00
+Non End User
+Companies	128	169	139	128	194	182	166	166	135	151	139	139	153.00
+Total Inquiries	293	378	291	286	409	420	379	423	357	415	374	336	363.42
+Inventory Availability
+Total Sources	104	108	114	111	115	112	110	109	112	117	111	106	110.75
+Total Quantity	331	319	295	325	376	345	354	382	374	399	387	390	356.42
+Overhaul Inquiries
+End User
+Companies	7	4	8	12	5	7	4	9	3	9	5	4	6.42
+Total Inquiries	7	5	16	16	5	11	6	10	5	14	5	4	8.67
+Non End User
+Companies	9	11	8	10	13	13	11	7	11	4	10	8	9.58
+Total Inquiries	12	13	11	15	16	21	17	9	13	5	16	10	13.17
+Overhaul Capability
+Total Sources	100	99	98	97	96	96	96	96	95	94	96	99	96.83
+
+
+QuoteHistory
+Date          Description              Quantity  Condition Quote/Unit
+11/20/25      REGULATOR OUTLINE, B     1         OH        18000/EA  
+11/18/25      VALVE                    1         OH        19800/    
+11/18/25      BLEED AIR REGULATOR      1         SV        10000/    
+11/18/25      REGULATOR OUTLINE, B     1         OH        18000/EA  
+11/11/25      VALVE                    1         OH        19800/    
+11/06/25      VALVE                    1         OH        19800/    
+11/03/25      BLEED AIR REGULATOR      1         SV        9000/     
+10/15/25      VALVE                    1         OH        19800/    
+10/06/25      VALVE                    1         OH        19800/    
+10/02/25      VALVE                    1         OH        19800/    
+
+
+MROHistory
+Date          Description              ServiceCode    QuotePrice     CostPlus  TAT       
+11/03/25      VALVE REGULATING BLE     OH             3400           0         21        
+11/03/25      VALVE REGULATING BLE     BC             550            0         7         
+11/03/25      VALVE REGULATING BLE     RP             2000           0         18        
+11/01/25      BLEED AIR REGULATOR      OH             5000           0         19        
+11/01/25      BLEED AIR REGULATOR      BC             390            0         8         
+11/01/25      BLEED AIR REGULATOR      RP             1875           0         14        
+10/31/25      REGULATOR                OH             1300           0         20        
+10/31/25      REGULATOR                BC             400            0         10        
+10/31/25      REGULATOR                RP             800            0         15        
+10/31/25      BLEED AIR REGULATOR      BC             550            0         7         
+
+
+Published Prices
+Last Updated  Vender/Mfg               Description              Model/Usage              Condition Price/Unit
+11/20/24      HONEYWELL AEROSPACE      REGULATOR OUTLINE, B     List Price Catalog       NE        54913.61/EA
+07/02/24      BOEING COMMERCIAL AI     REGULATOR: BLEED AIR                              NE        12000.00/EA
+07/02/24      BOEING COMMERCIAL AI     REGULATOR: BLEED AIR                              NE        17500.00/EA
+06/24/24      BOEING DIST INC.-DEF     REGULATR                                          NE        164024.71/EA
+02/21/24      THE BOEING COMPANY       REGULATOR                                         NE        76333.00/EA
+11/23/23      HONEYWELL AEROSPACE      REGULATOR OUTLINE, B     List Price Catalog       NE        106616.06/EA
+07/27/23      HONEYWELL AEROSPACE      REGULATOR OUTLINE, B     List Price Catalog       NE        85045.35/EA
+03/27/23      HONEYWELL AEROSPACE      REGULATOR OUTLINE, B     List Price Catalog       NE        55126.61/EA
+01/30/23      THE BOEING COMPANY       REGULATOR                                         NE        69583.00/EA
+01/27/23      HONEYWELL AEROSPACE      REGULATOR OUTLINE, B     List Price Catalog       NE        58136.75/EA
+01/01/23      HONEYWELL AEROSPACE      REGULATOR OUTLINE, B     List Price Catalog       NE        58136.75/EA
+10/27/22      HONEYWELL AEROSPACE      REGULATOR OUTLINE, B     List Price Catalog       NE        56996.81/EA
+09/22/22      HONEYWELL AEROSPACE      REGULATOR OUTLINE, B     List Price Catalog       NE        52774.82/EA
+07/21/22      HONEYWELL AEROSPACE      PRESSURE RELIEF VALV     List Price Catalog       NE        3298.85/EA
+06/22/22      HONEYWELL AEROSPACE      REGULATOR OUTLINE, B     List Price Catalog       NE        49787.57/EA
+04/21/22      HONEYWELL AEROSPACE      REGULATOR OUTLINE, B     List Price Catalog       NE        47872.67/EA
+09/07/21      THE BOEING COMPANY       REGULATOR                                         NE        24488.00/EA
+10/24/19      HONEYWELL AEROSPACE      REGULATOR OUTLINE, B     List Price Catalog       NE        42585.39/EA
+01/01/19      BOEING AIRCRAFT          REGULATO                                          NE        26950.00/EA
+07/14/18      THE BOEING COMPANY       REGULATOR                                         NE        26165.00/EA
+01/01/16      HONEYWELL AEROSPACE      REGULATOR OUTLINE, B     Operator Price Catal     NE        20049.65/EA
+07/25/11      HONEYWELL AEROSPACE      REGULATOR OUTLINE, B     List Price Catalog       NE        31053.00/EA
+
+
+Other Suggested Prices
+Last Updated  Vender/Mfg               Description                                  Technical Characteristics                    Price/Unit
+12/09/25      CFM56EXTRACTFILE         BLEED AIR REGULATOR                                                                       953/EA    
+10/21/10                               Unknown                                      UnknownUnknown,Unknown                       21500/EA  
+
+
+
+----------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+

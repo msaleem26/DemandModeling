@@ -1,0 +1,74 @@
+Part Number - 2758
+Month	12/24	01/25	02/25	03/25	04/25	05/25	06/25	07/25	08/25	09/25	10/25	11/25	12 Mo. Avg.
+Part Number Inquiries
+End User
+Companies	30	32	50	42	30	50	36	34	35	31	26	25	35.08
+Total Inquiries	35	52	80	65	40	72	56	51	47	45	38	53	52.83
+Non End User
+Companies	140	143	132	151	125	139	207	132	143	109	132	91	137.00
+Total Inquiries	313	309	290	334	315	387	467	339	384	339	355	257	340.75
+Inventory Availability
+Total Sources	143	148	150	150	148	152	153	151	152	152	158	165	151.83
+Total Quantity	3996	3835	3616	3803	3777	4011	4141	3320	3009	2942	4329	3738	3709.75
+Overhaul Inquiries
+End User
+Companies	3	5	6	7	4	5	6	7	6	5	6	7	5.58
+Total Inquiries	6	39	26	12	18	6	7	12	8	10	9	16	14.08
+Non End User
+Companies	7	22	13	10	11	11	14	5	16	8	15	7	11.58
+Total Inquiries	12	30	20	12	11	13	18	8	23	12	18	7	15.33
+Overhaul Capability
+Total Sources	60	56	56	58	57	60	59	59	59	59	60	61	58.67
+
+
+QuoteHistory
+Date          Description              Quantity  Condition Quote/Unit
+11/26/25      RELEASE PIN              30        NE        225.15/ea 
+11/26/25      NO DESC PROVIDED         1         OH        6400/     
+11/26/25      NO DESC PROVIDED         1         OH        6400/     
+11/26/25      BATTERY                  1         OH        4500/     
+11/25/25      NI-CAD BATTERY           1         OH        9500/     
+11/23/25      BATTERY                  1         OH        4500/     
+11/20/25      NI-CAD BATTERY           1         OH        9500/     
+11/20/25      NI-CAD BATTERY           1         OH        9500/     
+11/20/25      NI-CAD BATTERY           1         OH        9500/     
+11/20/25      NO DESC PROVIDED         1         OH        6400/     
+
+
+MROHistory
+Date          Description              ServiceCode    QuotePrice     CostPlus  TAT       
+10/17/25      BATTERY                  RP             600            0         20        
+10/17/25      BATTERY                  OH             850            0         30        
+10/17/25      BATTERY                  BC             400            0         10        
+10/09/25      ACFT NI CAD BATTERY      OH             2200           0         14        
+10/09/25      ACFT NI CAD BATTERY      BC             550            0         7         
+10/09/25      ACFT NI CAD BATTERY      RP             1300           0         14        
+08/26/25      BATTERY                  OH             1400           0         20        
+08/26/25      BATTERY                  BC             350            0         5         
+08/26/25      BATTERY                  RP             700            0         10        
+08/26/25      BATTERY                  OH             850            0         20        
+
+
+Published Prices
+Last Updated  Vender/Mfg               Description              Model/Usage              Condition Price/Unit
+02/21/24      THE BOEING COMPANY       BATTERY: NI-CAD, AIR                              NE        8864.00/EA
+02/16/23      SAFT INDUSTRIAL BATT     BATTERY: NICAD,VHP23                              NE        11049.44/EA
+01/01/23      PROPONENT                BATTERY 2758                                      NE        5976.17/EA
+12/23/22      SAFT INDUSTRIAL BATT     BATTERY: NICAD,VHP23                              NE        11049.44/EA
+03/21/16      SAFT INDUSTRIAL BATT     BATTERY: NICAD,WVHP2                              NE        13229.44/EA
+
+
+Other Suggested Prices
+Last Updated  Vender/Mfg               Description                                  Technical Characteristics                    Price/Unit
+05/07/15                               BATTERY                                      ElectricalElectrical,2                       5000/EA   
+04/14/14                               Battery                                      ElectricalElectrical,4                       12000/EA  
+
+
+Procurement History
+Your current subscription does not include access to this report. Please contact Customer Support for more information.
+
+
+----------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+

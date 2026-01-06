@@ -1,0 +1,72 @@
+Part Number - 766088B
+Month	12/24	01/25	02/25	03/25	04/25	05/25	06/25	07/25	08/25	09/25	10/25	11/25	12 Mo. Avg.
+Part Number Inquiries
+End User
+Companies	8	10	8	10	12	4	10	10	5	5	15	13	9.17
+Total Inquiries	13	16	13	19	17	5	13	21	6	7	19	14	13.58
+Non End User
+Companies	33	35	29	33	29	26	41	60	41	22	56	78	40.25
+Total Inquiries	106	114	101	101	97	94	114	180	136	94	166	202	125.42
+Inventory Availability
+Total Sources	45	39	41	43	44	45	47	48	46	45	43	42	44.00
+Total Quantity	137	115	137	178	177	142	183	208	192	205	558	157	199.08
+Overhaul Inquiries
+End User
+Companies	0	1	0	0	0	1	1	1	0	1	1	3	0.75
+Total Inquiries	0	2	0	0	0	1	4	1	0	1	1	3	1.08
+Non End User
+Companies	3	3	1	2	1	2	2	4	4	2	7	4	2.92
+Total Inquiries	3	3	1	3	2	3	2	5	10	2	9	5	4.00
+Overhaul Capability
+Total Sources	40	40	39	40	39	39	40	39	39	40	39	40	39.50
+
+
+QuoteHistory
+Date          Description              Quantity  Condition Quote/Unit
+11/25/25      I.D.G.                   1         OH        72500/EA  
+11/19/25      IDG                      1         OH        49000/EA  
+11/19/25      IDG                      1         OH        54000/EA  
+11/18/25      IDG                      1         OH        75000/EA  
+11/18/25      IDG                      1         OH        75000/EA  
+11/18/25      IDG                      1         OH        75000/EA  
+11/18/25      IDG                      1         OH        75000/EA  
+11/18/25      IDG                      1         OH        75000/EA  
+11/18/25      I.D.G.                   1         OH        72500/EA  
+11/18/25      IDG                      1         OH        55000/EA  
+
+
+MROHistory
+Date          Description              ServiceCode    QuotePrice     CostPlus  TAT       
+02/20/25      INTEGRATED DRIVE GEN     OH             29100          0         19        
+02/20/25      INTEGRATED DRIVE GEN     BC             700            0         7         
+02/20/25      INTEGRATED DRIVE GEN     RP             9800           0         15        
+02/20/25      IDG                      OH             45000          0         40        
+02/20/25      IDG                      BC             1000           0         10        
+02/20/25      IDG                      RP             15000          0         30        
+02/20/25      INTEGRATED DRIVE GEN     OH             42500          0         30        
+02/20/25      INTEGRATED DRIVE GEN     BC             1000           0         7         
+02/20/25      INTEGRATED DRIVE GEN     RP             12500          0         19        
+02/20/25      INTEGRATED DRIVE GEN     OH             37000          0         35        
+
+
+Published Prices
+Last Updated  Vender/Mfg               Description              Model/Usage              Condition Price/Unit
+02/21/24      THE BOEING COMPANY       INTEGRATED DRIVE GEN                              NE        892226.00/EA
+01/30/23      THE BOEING COMPANY       INTEGRATED DRIVE GEN                              NE        813333.00/EA
+09/07/21      THE BOEING COMPANY       INTEGRATED DRIVE GEN                              NE        739393.00/EA
+04/17/20      THE BOEING COMPANY       INTEGRATED DRIVE GEN                              NE        763315.00/EA
+02/04/19      THE BOEING COMPANY       INTEGRATED DRIVE GEN                              NE        749082.00/EA
+07/14/18      THE BOEING COMPANY       INTEGRATED DRIVE GEN                              NE        721242.00/EA
+01/01/10      UTC AEROSPACE            IDG                                               NE        544519.25/EA
+
+
+Other Suggested Prices
+Last Updated  Vender/Mfg               Description                                  Technical Characteristics                    Price/Unit
+07/24/14      QUALITY AIRCRAFT PAR     Integrated Drive Generator (IDG) for PW4     ElectricalElectrical                         69000/EA  
+
+
+
+----------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+

@@ -1,0 +1,70 @@
+Part Number - 22330008161
+Month	12/24	01/25	02/25	03/25	04/25	05/25	06/25	07/25	08/25	09/25	10/25	11/25	12 Mo. Avg.
+Part Number Inquiries
+End User
+Companies	5	4	2	4	1	10	6	4	5	5	7	5	4.83
+Total Inquiries	6	5	2	5	1	12	6	5	7	8	8	6	5.92
+Non End User
+Companies	26	46	76	46	49	63	75	54	65	40	55	45	53.33
+Total Inquiries	93	123	190	240	153	167	182	167	221	152	163	144	166.25
+Inventory Availability
+Total Sources	38	42	40	42	39	47	51	55	54	51	48	51	46.50
+Total Quantity	120	108	107	126	109	137	149	159	167	157	155	156	137.50
+Overhaul Inquiries
+End User
+Companies	1	1	0	1	0	0	3	2	2	1	1	2	1.17
+Total Inquiries	2	1	0	1	0	0	3	2	2	1	1	2	1.25
+Non End User
+Companies	3	6	4	3	6	5	2	4	10	3	5	8	4.92
+Total Inquiries	3	7	4	4	6	8	2	6	13	4	8	9	6.17
+Overhaul Capability
+Total Sources	2	2	2	2	1	1	1	1	1	1	1	1	1.33
+
+
+QuoteHistory
+Date          Description              Quantity  Condition Quote/Unit
+11/19/25      DFDAU                    1         SV        27000/EA  
+05/08/25      DIGITAL FLIGHT DATA      1         SV        27000/EACH
+03/03/25      DFDAW                    1         SV        45000/    
+02/03/25      DIGITAL FLIGHT DATA      1         SV        26995/EACH
+02/03/25      DIGITAL FLIGHT DATA      1         SV        36995/EACH
+11/11/24      DIGITAL FLIGHT DATA      1         SV        29995/EACH
+11/07/24      DFDAW                    1         SV        26000/    
+04/03/23      DIGITAL FLIGHT DATA      1         SV        22000/EACH
+07/20/22      DFDAU                    1         SV        14000/ea  
+07/19/22      DFDAU                    1         SV        14000/ea  
+
+
+MROHistory
+Date          Description              ServiceCode    QuotePrice     CostPlus  TAT       
+11/05/15      DIGITAL FLIGHT DATA      BC             557            0         7         
+11/05/15      DIGITAL FLIGHT DATA      RP             1093           0         15        
+11/05/15      DIGITAL FLIGHT DATA      OH             1366           0         21        
+07/06/15      DIGITAL FLIGHT DATA      BC             655            0         10        
+07/06/15      DIGITAL FLIGHT DATA      RP             1310           0         25        
+06/14/11      DIGITAL FLIGHT DATA      OH             2300           0         30        
+06/14/11      DIGITAL FLIGHT DATA      BC             500            0         10        
+06/14/11      DIGITAL FLIGHT DATA      RP             1325           0         20        
+
+
+Published Prices
+Last Updated  Vender/Mfg               Description              Model/Usage              Condition Price/Unit
+04/22/25      BOEING SHARED SERVIC     DIGITAL FLIGHT ACQ U                              NE        35000.00/EA
+02/14/25      BOEING SHARED SERVIC     DIGITAL FLIGHT ACQ U                              NE        35000.00/EA
+10/24/24      BOEING SHARED SERVIC     DIGITAL FLIGHT ACQ U                              NE        35000.00/EA
+10/23/24      BOEING SHARED SERVIC     DIGITAL FLIGHT ACQ U                              NE        35000.00/EA
+02/04/19      THE BOEING COMPANY       DIGITAL FLIGHT DATA                               NE        140482.00/EA
+07/14/18      THE BOEING COMPANY       DIGITAL FLIGHT DATA                               NE        135260.00/EA
+
+
+Other Suggested Prices
+Last Updated  Vender/Mfg               Description                                  Technical Characteristics                    Price/Unit
+11/07/24      DELTA TECHOPS            DFDAU1                                                                                    32950/EA  
+05/10/12                               Unknown                                      UnknownUnknown,Unknown                       32500/EA  
+
+
+
+----------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+

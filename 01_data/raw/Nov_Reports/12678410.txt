@@ -1,0 +1,74 @@
+Part Number - 12678410
+Month	12/24	01/25	02/25	03/25	04/25	05/25	06/25	07/25	08/25	09/25	10/25	11/25	12 Mo. Avg.
+Part Number Inquiries
+End User
+Companies	14	22	17	17	11	6	9	12	12	10	26	18	14.50
+Total Inquiries	21	34	23	26	16	7	10	23	21	10	34	29	21.17
+Non End User
+Companies	43	33	31	86	64	52	58	87	92	58	126	118	70.67
+Total Inquiries	120	108	84	211	164	150	171	266	261	170	306	272	190.25
+Inventory Availability
+Total Sources	43	41	40	38	40	42	41	42	43	43	46	43	41.83
+Total Quantity	117	112	111	119	109	135	146	154	156	164	160	167	137.50
+Overhaul Inquiries
+End User
+Companies	3	3	2	0	0	1	1	1	2	0	3	0	1.33
+Total Inquiries	5	5	2	0	0	1	1	1	4	0	3	0	1.83
+Non End User
+Companies	6	3	2	5	9	5	2	5	6	4	5	4	4.67
+Total Inquiries	7	4	2	7	12	7	9	7	7	4	8	4	6.50
+Overhaul Capability
+Total Sources	44	45	46	47	46	46	46	45	43	44	44	45	45.08
+
+
+QuoteHistory
+Date          Description              Quantity  Condition Quote/Unit
+04/03/25      ACTUATOR                 1         NS        121600/EA 
+04/03/25      ACTUATOR                 1         NS        121600/EA 
+01/11/24      ACTUATOR DRIVE UNIT      2         OH        55000/    
+02/17/23      CETER DRIVE UNIT         1         AR        30000/    
+08/04/22      CETER DRIVE UNIT         1         AR        30000/    
+08/03/22      CETER DRIVE UNIT         1         AR        30000/    
+07/26/22      CETER DRIVE UNIT         1         AR        30000/    
+02/22/22      CETER DRIVE UNIT         1         AR        30000/    
+01/17/22      CETER DRIVE UNIT         1         AR        30000/    
+01/11/22      CETER DRIVE UNIT         1         AR        30000/    
+
+
+MROHistory
+Date          Description              ServiceCode    QuotePrice     CostPlus  TAT       
+10/31/25      CDU ACTUATOR             OH             19500          0         35        
+10/31/25      CDU ACTUATOR             BC             550            0         15        
+10/31/25      CDU ACTUATOR             RP             7500           0         25        
+11/29/24      CDU ACTUATOR ASSY        OH             15000          0         25        
+11/29/24      CDU ACTUATOR ASSY        RP             7000           0         21        
+11/29/24      CDU ACTUATOR ASSY        BC             750            0         10        
+11/28/24      CDU ACTUATOR             RP             7500           0         25        
+11/28/24      CDU ACTUATOR             OH             19500          0         35        
+11/28/24      CDU ACTUATOR             BC             550            0         15        
+11/11/24      CDU ACTUATOR             OH             17500          0         35        
+
+
+Published Prices
+Last Updated  Vender/Mfg               Description              Model/Usage              Condition Price/Unit
+01/30/23      THE BOEING COMPANY       ACTUATOR-CNTR DRV UN                              NE        369423.00/EA
+09/07/21      THE BOEING COMPANY       ACTUATOR-CNTR DRV UN                              NE        369423.00/EA
+04/17/20      THE BOEING COMPANY       ACTUATOR-CNTR DRV UN                              NE        381374.00/EA
+02/04/19      THE BOEING COMPANY       ACTUATOR-CNTR DRV UN                              NE        374263.00/EA
+07/14/18      THE BOEING COMPANY       ACTUATOR-CNTR DRV UN                              NE        360353.00/EA
+07/27/12      HONEYWELL AEROSPACE      ACTUATOR, CENTER DRI     Operator Price Catal     NE        183271.00/EA
+06/08/10      HONEYWELL AEROSPACE      ACTUATOR, CENTER DRI     List Price Catalog       NE        326483.00/EA
+
+
+Other Suggested Prices
+Last Updated  Vender/Mfg               Description                                  Technical Characteristics                    Price/Unit
+06/07/18                               CDU                                                                                       45000/EA  
+05/03/18                               CENTER DRIVE ACTUATOR                                                                     60000/EA  
+07/06/15      GA Telesis               Drive Actuator                                                                            39500/EA  
+
+
+
+----------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+

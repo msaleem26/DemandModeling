@@ -1,0 +1,77 @@
+Part Number - 102LA2AG
+Month	12/24	01/25	02/25	03/25	04/25	05/25	06/25	07/25	08/25	09/25	10/25	11/25	12 Mo. Avg.
+Part Number Inquiries
+End User
+Companies	20	17	11	15	25	20	14	21	16	19	11	16	17.08
+Total Inquiries	30	22	14	26	38	24	17	32	19	25	13	17	23.08
+Non End User
+Companies	112	103	105	95	121	158	116	131	112	125	100	167	120.42
+Total Inquiries	286	276	340	370	346	416	334	406	427	415	359	458	369.42
+Inventory Availability
+Total Sources	117	124	119	120	123	119	123	126	130	133	140	137	125.92
+Total Quantity	334	340	294	1486	1528	414	433	436	428	440	444	418	582.92
+Overhaul Inquiries
+End User
+Companies	2	6	3	2	6	6	2	3	4	4	5	2	3.75
+Total Inquiries	3	9	3	5	6	6	2	4	4	7	5	3	4.75
+Non End User
+Companies	8	8	14	9	11	21	11	8	14	13	14	17	12.33
+Total Inquiries	10	8	22	11	21	40	13	19	29	30	30	43	23.00
+Overhaul Capability
+Total Sources	45	44	44	45	46	47	47	47	44	44	47	47	45.58
+
+
+QuoteHistory
+Date          Description              Quantity  Condition Quote/Unit
+11/26/25      SENSOR - TEMPERATURE     1         SV        9500/     
+11/26/25      TEMP AIR PROBE           1         SV        13000/    
+11/18/25      SENSOR - TEMPERATURE     1         SV        9500/     
+11/18/25      TEMP AIR PROBE           1         SV        13000/    
+11/18/25      SENSOR - TAT             1         SV        14900/EA  
+11/18/25      SENSOR - TAT             1         OH        17500/EA  
+11/18/25      TEMP AIR PROBE           1         SV        13000/    
+11/18/25      SENSOR - TAT             1         SV        14900/EA  
+11/18/25      SENSOR - TAT             1         OH        17500/EA  
+11/17/25      SENSOR - TEMPERATURE     1         SV        9000/     
+
+
+MROHistory
+Date          Description              ServiceCode    QuotePrice     CostPlus  TAT       
+11/26/25      TEMP SENSOR              OH             1350           0         14        
+11/26/25      TEMP SENSOR              BC             300            0         5         
+11/26/25      TEMP SENSOR              RP             985            0         12        
+10/30/25      TOTAL TEMPERATURE SE     BC             250            0         10        
+10/27/25      TOTAL TEMPERATURE SE     BC             250            0         5         
+10/27/25      TOTAL TEMP SENSOR        BC             350            0         6         
+10/23/25      TOTAL TEMPERATURE SE     OH             1385           0         14        
+10/23/25      TOTAL TEMPERATURE SE     BC             300            0         5         
+10/23/25      TOTAL TEMPERATURE SE     RP             950            0         12        
+10/23/25      TOTAL TEMPERATURE SE     BC             250            0         5         
+
+
+Published Prices
+Last Updated  Vender/Mfg               Description              Model/Usage              Condition Price/Unit
+02/21/24      THE BOEING COMPANY       PROBE-TOTAL TEMP                                  NE        28649.00/EA
+01/30/23      THE BOEING COMPANY       PROBE-TOTAL TEMP                                  NE        23741.00/EA
+09/07/21      THE BOEING COMPANY       PROBE-TOTAL TEMP                                  NE        21582.00/EA
+04/17/20      THE BOEING COMPANY       PROBE-TOTAL TEMP                                  NE        21210.00/EA
+02/04/19      THE BOEING COMPANY       PROBE-TOTAL TEMP                                  NE        20814.00/EA
+07/14/18      THE BOEING COMPANY       PROBE-TOTAL TEMP                                  NE        20040.00/EA
+01/01/16      PROPONENT                SENSOR;TOTA                                       NE        15696.00/EA
+02/15/03      GULFSTREAM AEROSPACE     PROBE                    COM                      NE        7094.00/EA
+
+
+Other Suggested Prices
+Last Updated  Vender/Mfg               Description                                  Technical Characteristics                    Price/Unit
+03/29/24      AOG REACTION             SENSOR ? TEMPERATURE                         ElectricalElectrical,A26610                  12000/EA  
+04/26/13                               TAT PROBE                                                                                 6000/EA   
+11/15/12                               TAT Probe                                                                                 7000/EA   
+10/26/12                               TAT Probe                                                                                 10000/EA  
+07/24/12                               TAT PROBE                                                                                 8500/EA   
+
+
+
+----------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+

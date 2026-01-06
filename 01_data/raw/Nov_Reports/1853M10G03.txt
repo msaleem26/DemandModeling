@@ -1,0 +1,68 @@
+Part Number - 1853M10G03
+Month	12/24	01/25	02/25	03/25	04/25	05/25	06/25	07/25	08/25	09/25	10/25	11/25	12 Mo. Avg.
+Part Number Inquiries
+End User
+Companies	10	19	11	7	9	11	12	9	5	18	14	13	11.50
+Total Inquiries	16	32	13	10	11	14	19	17	13	32	25	18	18.33
+Non End User
+Companies	81	167	81	102	76	104	127	72	47	100	100	133	99.17
+Total Inquiries	173	349	148	215	173	270	289	163	135	231	213	296	221.25
+Inventory Availability
+Total Sources	36	36	37	40	37	36	36	33	34	35	33	35	35.67
+Total Quantity	137	137	134	242	256	163	157	159	165	170	149	138	167.25
+Overhaul Inquiries
+End User
+Companies	3	0	2	2	0	1	0	2	1	1	1	1	1.17
+Total Inquiries	4	0	2	2	0	1	0	2	1	1	1	1	1.25
+Non End User
+Companies	8	8	3	2	0	0	3	5	2	6	2	4	3.58
+Total Inquiries	10	10	3	2	0	0	5	5	2	9	2	6	4.50
+Overhaul Capability
+Total Sources	3	3	3	4	4	4	4	4	4	4	4	5	3.83
+
+
+QuoteHistory
+Date          Description              Quantity  Condition Quote/Unit
+08/26/25      SEAL, STATIONARY NO      1         OH        75000/    
+08/25/25      SEAL, STATIONARY NO      1         OH        75000/    
+03/17/25      NO.3 STATIONARY          1         OH        80000/    
+03/17/25      NO.3 STATIONARY          1         OH        80000/    
+12/10/24      NO.3 STATIONARY          1         OH        70000/    
+12/10/24      NO.3 STATIONARY          1         OH        70000/    
+11/13/24      SEAL                     1         NE        159091.94/EACH
+11/11/24      SEAL                     1         NE        159091.94/EACH
+07/15/24      SEAL, NO 3 BRG AFT S     1         OH        35000/each
+12/05/23      TUBE ASSY                1         AR        60000/EA  
+
+
+MROHistory
+Date          Description              ServiceCode    QuotePrice     CostPlus  TAT       
+01/04/19      STG 3 BRG AFT STA SE     OH             2600           0         30        
+04/09/18      STG 3 BRG AFT STA SE     OH             2600           0         30        
+02/12/16      SEAL, NO. 3 STATIONA     OH             425            0         7         
+
+
+Published Prices
+Last Updated  Vender/Mfg               Description              Model/Usage              Condition Price/Unit
+08/01/25      CFM INTERNATIONAL        SEAL                     CFM56                    NE        136500.00/EA
+08/01/24      CFM INTERNATIONAL        SEAL                     CFM56                    NE        128100.00/EA
+08/01/23      CFM INTERNATIONAL        SEAL                     CFM56                    NE        120300.00/EA
+11/01/22      CFM INTERNATIONAL        SEAL                     CFM56                    NE        109600.00/EA
+11/01/21      CFM INTERNATIONAL        SEAL                     CFM56                    NE        102400.00/EA
+09/07/21      THE BOEING COMPANY       SEAL                                              NE        95877.00/EA
+11/01/20      CFM INTERNATIONAL        SEAL                     CFM56                    NE        94790.00/EA
+04/17/20      THE BOEING COMPANY       SEAL                                              NE        94228.00/EA
+11/01/19      CFM INTERNATIONAL        SEAL                     CFM56                    NE        86570.00/EA
+02/04/19      THE BOEING COMPANY       SEAL                                              NE        92471.00/EA
+11/01/18      CFM INTERNATIONAL        SEAL                     CFM56                    NE        80760.00/EA
+07/14/18      THE BOEING COMPANY       SEAL                                              NE        89034.00/EA
+11/01/17      CFM INTERNATIONAL        SEAL                     CFM56                    NE        74920.00/EA
+11/01/16      CFM INTERNATIONAL        SEAL                     CFM56                    NE        69830.00/EA
+11/01/15      CFM INTERNATIONAL        SEAL                     CFM56                    NE        65230.00/EA
+
+
+
+----------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+

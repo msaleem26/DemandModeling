@@ -1,0 +1,95 @@
+Part Number - D71702001
+Month	12/24	01/25	02/25	03/25	04/25	05/25	06/25	07/25	08/25	09/25	10/25	11/25	12 Mo. Avg.
+Part Number Inquiries
+End User
+Companies	11	22	19	21	18	24	15	23	24	25	33	21	21.33
+Total Inquiries	14	24	29	26	26	39	19	35	32	34	41	28	28.92
+Non End User
+Companies	81	137	116	155	93	144	133	130	144	173	142	105	129.42
+Total Inquiries	189	289	225	321	232	347	320	292	379	492	319	239	303.67
+Inventory Availability
+Total Sources	158	153	157	150	150	152	149	148	152	152	151	150	151.83
+Total Quantity	1387	1341	1438	1423	1445	1625	1601	1746	1359	1347	1372	1296	1448.33
+Overhaul Inquiries
+End User
+Companies	4	4	7	7	4	5	4	5	13	3	4	5	5.42
+Total Inquiries	4	6	14	8	4	5	7	5	19	3	5	5	7.08
+Non End User
+Companies	13	20	11	12	12	23	6	12	15	14	9	9	13.00
+Total Inquiries	20	33	32	50	29	43	24	29	36	34	18	16	30.33
+Overhaul Capability
+Total Sources	68	68	67	68	67	67	66	65	65	65	66	65	66.42
+
+
+QuoteHistory
+Date          Description              Quantity  Condition Quote/Unit
+11/26/25      EMER POWER SUPPLY        2         OH        1600/     
+11/26/25      EMER POWER SUPPLY        2         OH        1700/     
+11/26/25      EMER POWER SUPPLY        2         OH        1600/     
+11/26/25      EMER POWER SUPPLY        1         OH        1600/     
+11/26/25      EMER POWER SUPPLY        2         OH        1500/     
+11/26/25      EMER POWER SUPPLY        1         OH        1650/     
+11/26/25      EMER POWER SUPPLY        2         OH        1600/     
+11/25/25      EMERGENCY POWER SUPP     2         SV        2500/     
+11/25/25      EMER POWER SUPPLY        2         OH        1600/     
+11/25/25      EMER POWER SUPPLY        2         OH        1600/     
+
+
+MROHistory
+Date          Description              ServiceCode    QuotePrice     CostPlus  TAT       
+11/13/25      EMERGENCY POWER SUPP     OH             865            0         10        
+11/13/25      EMERGENCY POWER SUPP     BC             430            0         10        
+11/13/25      EMERGENCY POWER SUPP     RP             700            0         10        
+10/31/25      EPSU-EMERGENCY POWER     RP             3569           0         23        
+10/31/25      EPSU-EMERGENCY POWER     BC             743            0         20        
+10/30/25      EMERGENCY POWER SUPP     BC             161            0         10        
+10/30/25      EMERGENCY POWER SUPP     RP             227            0         20        
+10/30/25      EMERGENCY POWER SUPP     OH             327            0         20        
+10/29/25      EMERGENCY POWER SUPP     OH             1500           0         9         
+10/29/25      EMERGENCY POWER SUPP     BC             300            0         7         
+
+
+Published Prices
+Last Updated  Vender/Mfg               Description              Model/Usage              Condition Price/Unit
+04/22/25      BOEING SHARED SERVIC     POWER SUPPLY: EMERGE                              AR        2500.00/EA
+04/22/25      GOODRICH LIGHTING SY     POWER SUPPLY:                                     NE        4375.00/EA
+02/14/25      BOEING SHARED SERVIC     POWER SUPPLY: EMERGE                              AR        2500.00/EA
+10/24/24      BOEING SHARED SERVIC     POWER SUPPLY: EMERGE                              AR        2500.00/EA
+10/23/24      BOEING SHARED SERVIC     POWER SUPPLY: EMERGE                              AR        2500.00/EA
+07/02/24      BOEING SHARED SERVIC     POWER SUPPLY: EMERGE                              AR        2500.00/EA
+06/24/24      GOODRICH LIGHTING SY     POWER SUPPLY:                                     NE        12456.28/EA
+06/24/24      BOEING SHARED SERVIC     POWER SUPPLY: EMERGE                              AR        2500.00/EA
+02/21/24      THE BOEING COMPANY       EMERGENCY POWER SUPP                              NE        9280.00/EA
+11/21/23      GOODRICH LIGHTING SY     POWER SUPPLY:                                     NE        12456.28/EA
+11/21/23      BOEING SHARED SERVIC     POWER SUPPLY: EMERGE                              AR        2500.00/EA
+05/16/23      GOODRICH LIGHTING SY     POWER SUPPLY:                                     NE        12456.28/EA
+05/16/23      BOEING SHARED SERVIC     POWER SUPPLY: EMERGE                              SV        2500.00/EA
+02/16/23      GOODRICH LIGHTING SY     POWER SUPPLY:                                     NE        10907.43/EA
+01/30/23      THE BOEING COMPANY       EMERGENCY POWER SUPP                              NE        8459.00/EA
+01/01/23      PROPONENT                EMERGENCY POWER SUPP                              NE        12006.05/EA
+12/23/22      GOODRICH LIGHTING SY     POWER SUPPLY:                                     NE        10907.43/EA
+12/23/22      BOEING SHARED SERVIC     POWER SUPPLY: EMERGE                              SV        2500.00/EA
+12/22/22      GOODRICH LIGHTING SY     POWER SUPPLY:                                     NE        10907.43/EA
+12/22/22      BOEING COMMERCIAL AI     POWER SUPPLY: EMERGE                              SV        2500.00/EA
+12/21/22      BOEING COMMERCIAL AI     POWER SUPPLY: EMERGE                              SV        2500.00/EA
+12/20/22      BOEING COMMERCIAL AI     POWER SUPPLY: EMERGE                              SV        2500.00/EA
+12/20/22      BOEING COMMERCIAL AI     POWER SUPPLY: EMERGE                              OH        3500.00/EA
+09/23/21      BOEING COMMERCIAL AI     POWER SUPPLY: EMERGE                              SV        2500.00/EA
+09/23/21      BOEING COMMERCIAL AI     POWER SUPPLY: EMERGE                              OH        3500.00/EA
+09/07/21      THE BOEING COMPANY       EMERGENCY POWER SUPP                              NE        7534.00/EA
+10/21/20      BOEING COMMERCIAL AI     POWER SUPPLY: EMERGE                              SV        2500.00/EA
+04/17/20      THE BOEING COMPANY       EMERGENCY POWER SUPP                              NE        7404.00/EA
+04/08/20      1000092                  POWER SUPPLY: EMERGE                              IN        3000.00/EA
+11/08/19      BOEING COMMERCIAL AI     POWER SUPPLY: EMERGE                              SV        2500.00/EA
+02/04/19      THE BOEING COMPANY       EMERGENCY POWER SUPP                              NE        7126.00/EA
+07/14/18      THE BOEING COMPANY       EMERGENCY POWER SUPP                              NE        6861.00/EA
+03/21/16      PAGE AEROSPACE LTD       POWER SUPPLY:                                     NE        8684.58/EA
+04/14/15      PAGE AEROSPACE LTD       POWER SUPPLY:                                     NE        6862.48/EA
+01/01/14      PAGE AEROSPACE LTD       EPS                                               NE        5489.98/EA
+
+
+
+----------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+

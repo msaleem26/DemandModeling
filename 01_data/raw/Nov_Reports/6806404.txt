@@ -1,0 +1,76 @@
+Part Number - 6806404
+Month	12/24	01/25	02/25	03/25	04/25	05/25	06/25	07/25	08/25	09/25	10/25	11/25	12 Mo. Avg.
+Part Number Inquiries
+End User
+Companies	4	9	13	13	21	14	3	5	8	4	5	1	8.33
+Total Inquiries	6	12	18	20	24	19	4	6	10	5	5	1	10.83
+Non End User
+Companies	17	20	50	71	56	84	31	36	43	33	18	21	40.00
+Total Inquiries	89	80	138	569	114	208	106	123	117	98	76	61	148.25
+Inventory Availability
+Total Sources	97	95	96	94	92	91	96	92	93	98	101	102	95.58
+Total Quantity	341	273	325	355	341	334	351	344	341	360	360	368	341.08
+Overhaul Inquiries
+End User
+Companies	0	3	6	3	3	4	0	2	1	1	2	0	2.08
+Total Inquiries	0	5	7	4	4	4	0	3	1	1	2	0	2.58
+Non End User
+Companies	2	5	10	11	8	16	6	8	6	3	5	3	6.92
+Total Inquiries	2	5	13	16	10	20	7	12	7	3	6	3	8.67
+Overhaul Capability
+Total Sources	40	40	40	39	39	37	37	36	35	36	37	38	37.83
+
+
+QuoteHistory
+Date          Description              Quantity  Condition Quote/Unit
+10/20/25      MACHINE OUTL (HONEYW     1         OH        29000/EA  
+09/28/25      COOLING TURBINE          1         SV        25000/    
+09/28/25      MACHINE OUTL (HONEYW     1         OH        29000/EA  
+09/08/25      COOLING TURBINE          1         SV        25000/    
+09/08/25      COOLING TURBINE          1         SV        25000/    
+09/08/25      MACHINE OUTL (HONEYW     1         OH        29000/EA  
+09/05/25      COOLING TURBINE          1         SV        25000/    
+09/05/25      MACHINE OUTL (HONEYW     1         OH        29000/EA  
+08/20/25      MACHINE OUTL (HONEYW     1         OH        29000/EA  
+08/14/25      COOLING TURBINE          1         SV        25300/    
+
+
+MROHistory
+Date          Description              ServiceCode    QuotePrice     CostPlus  TAT       
+06/11/25      AIR CYCLE MACHINE        OH             42500          0         35        
+06/11/25      AIR CYCLE MACHINE        BC             2850           0         10        
+06/11/25      AIR CYCLE MACHINE        RP             19500          0         23        
+05/13/25      AIR CYCLE MACHINE        BC             1668           0         10        
+05/12/25      ACM, AIR CYCLE MACHI     BC             1800           0         10        
+05/12/25      ACM, AIR CYCLE MACHI     OH             32000          0         35        
+05/12/25      ACM, AIR CYCLE MACHI     RP             20000          0         18        
+03/21/25      ACM, AIR CYCLE MACHI     OH             32000          0         30        
+03/21/25      ACM, AIR CYCLE MACHI     BC             1800           0         10        
+03/21/25      ACM, AIR CYCLE MACHI     RP             20000          0         21        
+
+
+Published Prices
+Last Updated  Vender/Mfg               Description              Model/Usage              Condition Price/Unit
+01/01/16      HONEYWELL AEROSPACE      ACM                      Operator Price Catal     NE        129475.97/EA
+06/08/10      HONEYWELL AEROSPACE      ACM                      List Price Catalog       NE        207896.00/EA
+
+
+Other Suggested Prices
+Last Updated  Vender/Mfg               Description                                  Technical Characteristics                    Price/Unit
+02/09/21                               ACM Trace-121                                                                             5500/EA   
+02/01/21                               ACM                                                                                       8000/EA   
+10/28/20                               ACM (Air Cycle Machine)                      Environmental Control SystemEnvironmenta     9000/EA   
+01/30/20                               A.C.M. (Air Cycle Machine)                   Environmental Control SystemEnvironmenta     17800/EA  
+10/22/19                               A.C.M. (Air Cycle Machine)                   Environmental Control SystemEnvironmenta     17500/EA  
+08/01/17      NORTHEAST AERO COMPR     AIR CYCLE MACHINE                            TRACE: BRITISH AIRWAYS - 129 TRACE; TAGD     15000/EA  
+04/30/15                               ACM (Air Cycle Machine)                      Environmental Control SystemEnvironmenta     10000/EA  
+09/08/14                               ACM (Air Cycle Machine) for 757/767          Environmental Control SystemEnvironmenta     18000/EA  
+08/05/14                               ACM                                                                                       22000/EA  
+10/23/13                               COOLING TURBINE                                                                           32000/EA  
+
+
+
+----------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+

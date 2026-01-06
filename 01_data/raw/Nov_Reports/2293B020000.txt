@@ -1,0 +1,72 @@
+Part Number - 2293B020000
+Month	12/24	01/25	02/25	03/25	04/25	05/25	06/25	07/25	08/25	09/25	10/25	11/25	12 Mo. Avg.
+Part Number Inquiries
+End User
+Companies	27	19	28	23	15	23	20	14	25	21	31	23	22.42
+Total Inquiries	34	26	38	38	20	36	29	20	31	25	45	36	31.50
+Non End User
+Companies	90	109	145	107	90	108	90	77	123	105	141	114	108.25
+Total Inquiries	217	256	316	247	189	283	223	202	318	261	316	248	256.33
+Inventory Availability
+Total Sources	115	119	118	120	128	129	126	124	125	124	127	121	123.00
+Total Quantity	526	515	477	495	662	571	526	603	500	552	514	471	534.33
+Overhaul Inquiries
+End User
+Companies	1	2	5	4	4	7	4	5	2	1	2	2	3.25
+Total Inquiries	2	7	8	4	5	13	5	6	2	2	2	3	4.92
+Non End User
+Companies	7	8	7	6	3	8	2	5	9	13	12	7	7.25
+Total Inquiries	9	8	12	8	3	13	3	7	23	16	12	10	10.33
+Overhaul Capability
+Total Sources	50	50	48	50	48	47	46	46	46	45	46	47	47.42
+
+
+QuoteHistory
+Date          Description              Quantity  Condition Quote/Unit
+11/26/25      LP CHECK VALVE           1         SV        7500/EA   
+11/26/25      LP CHECK VALVE           1         SV        7500/EA   
+11/19/25      LP CHECK VALVE           1         SV        7500/EA   
+11/19/25      LP CHECK VALVE           1         SV        7500/EA   
+11/17/25      VALVE - IP BLEED CHE     1         SV        2200/EA   
+11/17/25      VALVE - IP BLEED CHE     1         SV        2200/EA   
+11/14/25      LP CHECK VALVE           1         SV        7500/EA   
+11/14/25      LP CHECK VALVE           1         SV        7500/EA   
+11/14/25      LP CHECK VALVE           1         SV        7500/EA   
+11/13/25      LP CHECK VALVE           1         SV        7500/EA   
+
+
+MROHistory
+Date          Description              ServiceCode    QuotePrice     CostPlus  TAT       
+10/16/25      VALVE                    RP             800            0         15        
+10/16/25      VALVE                    OH             1800           0         20        
+10/16/25      VALVE                    BC             400            0         10        
+09/26/25      VALVE                    BC             450            0         7         
+09/26/25      VALVE                    RP             1600           0         15        
+09/26/25      VALVE                    OH             2400           0         18        
+09/26/25      CHECK VALVE-PRESS,IN     OH             5209           0         35        
+09/26/25      CHECK VALVE-PRESS,IN     BC             1278           0         16        
+09/26/25      CHECK VALVE-PRESS,IN     RP             3782           0         26        
+09/25/25      CHECK VALVE              OH             2100           0         16        
+
+
+Published Prices
+Last Updated  Vender/Mfg               Description              Model/Usage              Condition Price/Unit
+01/30/23      THE BOEING COMPANY       VALVE-CHECK                                       NE        13066.00/EA
+09/07/21      THE BOEING COMPANY       VALVE-CHECK                                       NE        11422.00/EA
+10/21/20      EAST AIR CORPORATION     VALVE: CHECK                                      NE        11421.43/EA
+04/08/20      EAST AIR CORPORATION     VALVE: CHECK                                      NE        11421.43/EA
+11/08/19      EAST AIR CORPORATION     VALVE: CHECK                                      NE        11421.43/EA
+01/01/18      LIEBHERR                 IPCV                                              NE        9440.48/EA
+
+
+Other Suggested Prices
+Last Updated  Vender/Mfg               Description                                  Technical Characteristics                    Price/Unit
+08/10/18                               Int Pressure Valve                                                                        6000/EA   
+04/11/14                               IP CHECK VALVE                                                                            8000/EA   
+
+
+
+----------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+

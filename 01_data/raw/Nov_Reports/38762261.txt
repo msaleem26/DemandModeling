@@ -1,0 +1,89 @@
+Part Number - 38762261
+Month	12/24	01/25	02/25	03/25	04/25	05/25	06/25	07/25	08/25	09/25	10/25	11/25	12 Mo. Avg.
+Part Number Inquiries
+End User
+Companies	4	13	11	5	8	12	12	2	4	6	5	1	6.92
+Total Inquiries	5	18	13	8	10	15	19	2	4	6	5	1	8.83
+Non End User
+Companies	42	62	52	36	104	70	81	29	37	41	62	22	53.17
+Total Inquiries	64	84	67	55	147	115	150	67	81	71	108	44	87.75
+Inventory Availability
+Total Sources	104	97	106	104	102	104	109	108	110	114	113	111	106.83
+Total Quantity	304	278	278	318	436	351	364	348	353	357	364	372	343.58
+Overhaul Inquiries
+End User
+Companies	1	5	4	2	0	1	1	2	1	2	1	0	1.67
+Total Inquiries	1	8	5	6	0	1	1	2	3	2	1	0	2.50
+Non End User
+Companies	3	6	3	7	5	5	3	3	3	5	3	5	4.25
+Total Inquiries	4	8	3	7	6	5	4	3	3	10	3	11	5.58
+Overhaul Capability
+Total Sources	25	25	26	25	25	25	26	25	26	28	28	30	26.17
+
+
+QuoteHistory
+Date          Description              Quantity  Condition Quote/Unit
+11/17/25      SENSOR                   1         SV        3150/EACH 
+11/17/25      SENSOR                   1         NE        11500/EACH
+11/14/25      SENSOR PRESS TOT         1         OH        2750/EA   
+11/13/25      SENSOR                   1         SV        3500/EACH 
+11/13/25      SENSOR                   1         NE        11500/EACH
+11/13/25      SENSOR PRESS TOT         1         OH        2750/EA   
+11/12/25      SENSOR                   1         SV        3500/EACH 
+11/12/25      SENSOR                   1         NE        11500/EACH
+11/11/25      SENSOR PRESS TOT         1         OH        4950/EA   
+11/06/25      SENSOR                   1         SV        3500/EACH 
+
+
+MROHistory
+Date          Description              ServiceCode    QuotePrice     CostPlus  TAT       
+08/27/25      SENSOR, TOTAL PRESS.     OH             1400           0         20        
+08/27/25      SENSOR, TOTAL PRESS.     BC             350            0         5         
+08/27/25      SENSOR, TOTAL PRESS.     RP             700            0         10        
+08/27/25      PRESSURE SENSOR          BC             375            0         3         
+08/27/25      TOTAL PRESSURE SENSO     BC             250            0         10        
+08/27/25      DELTA P SWITCH           BC             550            0         7         
+04/02/25      SENSOR                   BC             300            0         5         
+03/26/25      SENSOR, TOTAL PRESS.     OH             1400           0         20        
+03/26/25      SENSOR, TOTAL PRESS.     RP             700            0         10        
+03/26/25      SENSOR, TOTAL PRESS.     BC             350            0         5         
+
+
+Published Prices
+Last Updated  Vender/Mfg               Description              Model/Usage              Condition Price/Unit
+10/23/25      HONEYWELL AEROSPACE      SENSOR, TOTAL PRESSU     List Price Catalog       NE        23023.22/EA
+04/22/25      BOEING COMMERCIAL AI     SENSOR: PRESSURE,SVC                              SV        7000.00/EA
+02/14/25      BOEING COMMERCIAL AI     SENSOR: PRESSURE,SVC                              SV        7000.00/EA
+10/24/24      BOEING COMMERCIAL AI     SENSOR: PRESSURE,SVC                              SV        7000.00/EA
+10/23/24      HONEYWELL AEROSPACE      SENSOR, TOTAL PRESSU     List Price Catalog       NE        22908.68/EA
+10/23/24      BOEING COMMERCIAL AI     SENSOR: PRESSURE,SVC                              SV        7000.00/EA
+07/02/24      BOEING COMMERCIAL AI     SENSOR: PRESSURE,SVC                              SV        7000.00/EA
+06/24/24      HONEYWELL AEROSPACE      SENSOR: PRESSURE                                  NE        26163.85/EA
+02/21/24      THE BOEING COMPANY       SENSOR                                            NE        15513.00/EA
+11/21/23      HONEYWELL AEROSPACE      SENSOR: PRESSURE                                  NE        26163.85/EA
+05/16/23      HONEYWELL AEROSPACE      SENSOR: PRESSURE                                  NE        26163.85/EA
+02/16/23      HONEYWELL AEROSPACE      SENSOR: PRESSURE                                  NE        30522.47/EA
+01/30/23      THE BOEING COMPANY       SENSOR                                            NE        14141.00/EA
+12/23/22      HONEYWELL AEROSPACE      SENSOR: PRESSURE                                  NE        30522.47/EA
+12/22/22      HONEYWELL AEROSPACE      SENSOR: PRESSURE                                  NE        30522.47/EA
+12/21/22      HONEYWELL AEROSPACE      SENSOR: PRESSURE                                  NE        23015.88/EA
+12/20/22      HONEYWELL AEROSPACE      SENSOR: PRESSURE                                  NE        23015.88/EA
+09/23/21      HONEYWELL AEROSPACE      SENSOR: PRESSURE                                  NE        23015.88/EA
+09/07/21      THE BOEING COMPANY       SENSOR                                            NE        12473.00/EA
+10/21/20      HONEYWELL AEROSPACE      SENSOR: PRESSURE                                  NE        19563.50/EA
+04/17/20      THE BOEING COMPANY       SENSOR                                            NE        13054.00/EA
+04/08/20      HONEYWELL AEROSPACE      SENSOR: PRESSURE                                  NE        19563.50/EA
+07/14/18      THE BOEING COMPANY       SENSOR                                            NE        12564.00/EA
+03/21/16      AVIALL                   SENSOR: PRESSURE                                  NE        17559.93/EA
+01/01/16      HONEYWELL AEROSPACE      SENSOR PRESS TOT         Operator Price Catal     NE        8331.81/EA
+07/25/11      HONEYWELL AEROSPACE      SENSOR PRESS TOT         List Price Catalog       NE        13460.00/EA
+
+
+Procurement History
+Your current subscription does not include access to this report. Please contact Customer Support for more information.
+
+
+----------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+

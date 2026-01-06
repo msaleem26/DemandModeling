@@ -1,0 +1,63 @@
+Part Number - 3400018160
+Month	12/24	01/25	02/25	03/25	04/25	05/25	06/25	07/25	08/25	09/25	10/25	11/25	12 Mo. Avg.
+Part Number Inquiries
+End User
+Companies	9	17	11	15	20	17	26	21	12	25	17	13	16.92
+Total Inquiries	12	22	13	26	33	38	41	27	16	37	27	22	26.17
+Non End User
+Companies	63	99	49	75	91	74	110	100	49	122	136	87	87.92
+Total Inquiries	192	230	158	211	245	228	281	243	178	280	298	211	229.58
+Inventory Availability
+Total Sources	56	63	61	63	65	64	63	63	61	62	58	59	61.50
+Total Quantity	57733	58265	55861	58323	57552	58207	58098	58561	56609	57131	56001	55246	57298.92
+Overhaul Inquiries
+End User
+Companies	1	2	1	2	6	2	1	5	1	7	2	0	2.50
+Total Inquiries	1	2	1	2	9	5	1	5	1	7	2	0	3.00
+Non End User
+Companies	5	5	3	8	7	8	9	10	3	9	10	0	6.42
+Total Inquiries	6	7	5	10	7	9	12	11	3	15	16	0	8.42
+Overhaul Capability
+Total Sources	12	12	11	12	11	11	11	11	11	11	11	11	11.25
+
+
+QuoteHistory
+Date          Description              Quantity  Condition Quote/Unit
+11/24/25      PLATFORM                 24        AR        990/      
+10/03/25      PLATFORM                 1         AR        1980/     
+10/03/25      PLATFORM                 14        AR        1890/     
+10/03/25      PLATFORM                 14        AR        1890/     
+10/02/25      PLATFORM                 1         AR        1889/     
+09/26/25      PLATFORM                 15        AR        1250/     
+07/28/25      PLATFORM                 19        AR        1250/     
+07/16/25      PLATFORM                 15        AR        1500/     
+07/16/25      PLATFORM                 1         AR        1580/     
+06/27/25      PLATFORM                 1         AR        1650/     
+
+
+MROHistory
+Date          Description              ServiceCode    QuotePrice     CostPlus  TAT       
+10/23/25      PLATFORM, FAN BLADE      OH             550            0         21        
+10/23/25      FAN BLADE PLATFORM       OH             620            0         0         
+10/23/25      FAN BLADE PLATFORM       BC             150            0         0         
+10/23/25      PLATFORM                 RP             650            0         25        
+10/23/25      PLATFORM                 OH             650            0         25        
+10/22/25      FAN BLADE PLATFORM       RP             405            0         30        
+10/22/25      FAN BLADE PLATFORM       OH             405            0         30        
+10/22/25      FAN BLADE PLATFORM       BC             405            0         30        
+10/20/25      PLATFORM, FAN BLADE      OH             550            0         21        
+10/15/25      FAN BLADE PLATFORM       OH             650            0         0         
+
+
+Published Prices
+Last Updated  Vender/Mfg               Description              Model/Usage              Condition Price/Unit
+02/04/19      THE BOEING COMPANY       PLATFORM - FAN BLADE                              NE        2966.00/EA
+07/14/18      THE BOEING COMPANY       PLATFORM - FAN BLADE                              NE        2855.00/EA
+11/01/13      CFM INTERNATIONAL        PLATFORM                 CFM56                    NE        1852.00/EA
+
+
+
+----------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+

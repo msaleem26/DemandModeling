@@ -1,0 +1,55 @@
+Part Number - 50N203
+Month	12/24	01/25	02/25	03/25	04/25	05/25	06/25	07/25	08/25	09/25	10/25	11/25	12 Mo. Avg.
+Part Number Inquiries
+End User
+Companies	3	4	4	4	4	5	4	3	1	1	2	0	2.92
+Total Inquiries	8	11	4	8	9	13	5	3	1	1	3	0	5.50
+Non End User
+Companies	10	20	23	14	32	32	20	8	12	8	17	11	17.25
+Total Inquiries	56	50	54	51	72	70	51	32	37	27	43	37	48.33
+Inventory Availability
+Total Sources	19	18	17	20	20	20	20	21	21	22	21	20	19.92
+Total Quantity	4630	3761	3509	4705	3725	5196	4887	4764	4378	4713	4303	3656	4352.25
+Overhaul Inquiries
+End User
+Companies	1	1	0	0	0	0	0	0	0	1	0	0	0.25
+Total Inquiries	1	3	0	0	0	0	0	0	0	1	0	0	0.42
+Non End User
+Companies	0	0	0	1	1	4	1	0	0	0	0	0	0.58
+Total Inquiries	0	0	0	1	1	4	1	0	0	0	0	0	0.58
+Overhaul Capability
+Total Sources	1	1	1	1	1	1	1	1	1	1	1	1	1.00
+
+
+QuoteHistory
+Date          Description              Quantity  Condition Quote/Unit
+03/07/24      LPT STG 3 BLADE          12        OH        2250/     
+03/07/24      LPT STG 3 BLADE          12        OH        2250/     
+03/07/24      LPT STG 3 BLADE          12        OH        2250/     
+03/07/24      LPT STG 3 BLADE          12        OH        2250/     
+07/26/22      BLADE, LPT STG 3         128       OH        2900/ea   
+05/01/13      BLADE                    87        OH        3000/EA   
+04/14/11      T3 BLADE                 73        OH        750/EA    
+11/17/08      BLADE-LPT,3STG           1         OH        750/EA    
+
+
+Published Prices
+Last Updated  Vender/Mfg               Description              Model/Usage              Condition Price/Unit
+09/01/25      PRATT & WHITNEY          BLADE                    Commercial Engine Sp     NE        4077.00/EA
+10/01/24      PRATT & WHITNEY          BLADE                    Commercial Engine Sp     NE        3666.00/EA
+10/01/23      PRATT & WHITNEY          BLADE                    Commercial Engine Sp     NE        3368.00/EA
+10/01/22      PRATT & WHITNEY          BLADE                    Commercial Engine Sp     NE        3089.00/EA
+01/01/22      PRATT & WHITNEY          BLADE                    Commercial Engine Sp     NE        2758.00/EA
+01/01/21      PRATT & WHITNEY          BLADE                    Commercial Engine Sp     NE        2568.00/EA
+01/01/20      PRATT & WHITNEY          BLADE                    Commercial Engine Sp     NE        2446.00/EA
+01/01/19      PRATT & WHITNEY          BLADE                    Commercial Engine Sp     NE        2311.00/EA
+01/01/18      PRATT & WHITNEY          BLADE                    Commercial Engine Sp     NE        2191.90/EA
+01/01/17      PRATT & WHITNEY          BLADE                    Commercial Engine Sp     NE        2077.00/EA
+01/01/16      PRATT & WHITNEY          BLADE                    Commercial Engine Sp     NE        1988.00/EA
+
+
+
+----------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+
